@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-10T06:15:42Z",
+  "generatedAt": "2026-07-14T16:58:08Z",
   "items": [
     {
       "id": "fda-bpc157-pcac-2026-07",
@@ -594,27 +594,32 @@
     },
     {
       "id": "ghkcu-topical-vs-injectable",
-      "headline": "GHK-Cu has topical data, no injectable evidence",
-      "summary": "The copper tripeptide GHK-Cu has documented evidence as a topical skincare ingredient — controlled studies report improved skin firmness and reduced fine lines, plus wound-healing activity. That evidence is for topical use; there is no comparable published human trial evidence for injected GHK-Cu, which is unstudied for safety or efficacy by that route. Some of the topical literature comes from authors with a commercial skincare interest.",
+      "headline": "FDA flags injectable GHK-Cu; topical data is stronger",
+      "summary": "The copper tripeptide GHK-Cu has real evidence as a topical skincare ingredient — controlled studies report firmer skin and fewer fine lines — but injected GHK-Cu is unstudied for safety or efficacy. In its compounding review the FDA stated that injectable GHK-Cu 'may pose risk for immunogenicity due to the potential for aggregation and peptide-related impurities,' with limited human data. GHK-Cu is not FDA-approved for injection.",
       "category": "Safety",
       "compounds": [
         "GHK-Cu (injectable)"
       ],
       "sources": [
         {
-          "name": "J Biomater Sci Polym Ed 2008 (Pickart)",
-          "url": "https://doi.org/10.1163/156856208784909435",
+          "name": "U.S. FDA — bulk substances that may present significant safety risks",
+          "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+          "kind": "regulatory"
+        },
+        {
+          "name": "Oxid Med Cell Longev 2012 (Pickart et al. — topical GHK-Cu)",
+          "url": "https://doi.org/10.1155/2012/324832",
           "kind": "journal"
         },
         {
-          "name": "Oxid Med Cell Longev 2012 (Pickart et al.)",
-          "url": "https://doi.org/10.1155/2012/324832",
+          "name": "J Biomater Sci Polym Ed 2008 (Pickart — topical GHK-Cu)",
+          "url": "https://doi.org/10.1163/156856208784909435",
           "kind": "journal"
         }
       ],
-      "publishedAt": "2012-05-10T00:00:00Z",
-      "teaser": "GHK-Cu has real topical skin data; injectable use has no published human evidence.",
-      "popularity": 52,
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "teaser": "FDA: injectable GHK-Cu may pose an immunogenicity risk; solid data exist only for topical use.",
+      "popularity": 67,
       "isMajorUpdate": false,
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician."
     },
@@ -1007,45 +1012,184 @@
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician."
     },
     {
-      "id": "ct-NCT06077864",
-      "headline": "A Study to Test the Effect of Survodutide (BI 456906) on Cardiovascular Safety in People…",
-      "summary": "This study is open to adults who are at least 18 years old and have a body mass index (BMI) of 27 kg/m2 or more. People can take part if they have cardiovascular or chronic kidney disease. Primary outcome: Time to first occurrence of any of the adjudicated components of the composite endpoint consisting of: CV death….",
-      "teaser": "This study is open to adults who are at least 18 years old and have a body mass index (BMI) of 27…",
-      "category": "Trial results",
+      "id": "bpc157-fda-immunogenicity-2026",
+      "headline": "FDA flags immunogenicity risk for injectable BPC-157",
+      "summary": "In its compounding review, the FDA stated that BPC-157 'may pose risk for immunogenicity' — an unwanted immune response — for injectable routes, driven by the potential for peptide aggregation and peptide-related impurities alongside limited human safety data. BPC-157 was placed among bulk substances that may present significant safety risks; the nomination was later withdrawn, and the FDA's advisory committee is set to re-evaluate it on July 23–24, 2026. BPC-157 is not FDA-approved.",
+      "category": "Safety",
       "compounds": [
-        "Survodutide"
+        "BPC-157"
       ],
       "sources": [
         {
-          "name": "ClinicalTrials.gov (NCT06077864)",
-          "url": "https://clinicaltrials.gov/study/NCT06077864",
-          "kind": "trial"
+          "name": "U.S. FDA — bulk substances that may present significant safety risks",
+          "url": "https://www.fda.gov/drugs/human-drug-compounding/certain-bulk-drug-substances-use-compounding-may-present-significant-safety-risks",
+          "kind": "regulatory"
+        },
+        {
+          "name": "U.S. FDA — Pharmacy Compounding Advisory Committee briefing (July 23–24, 2026)",
+          "url": "https://www.fda.gov/media/193343/download",
+          "kind": "regulatory"
         }
       ],
-      "publishedAt": "2026-07-09T00:00:00Z",
+      "publishedAt": "2026-04-22T00:00:00Z",
+      "teaser": "FDA: injectable BPC-157 'may pose risk for immunogenicity' from aggregation and impurities.",
+      "popularity": 79,
+      "isMajorUpdate": false,
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician."
+    },
+    {
+      "id": "pm-42444567",
+      "headline": "Medical Treatments for Obesity: What Does the Future Have in Store?",
+      "summary": "Obesity is a chronic relapsing disease associated with substantial morbidity, mortality, and health care costs.",
+      "teaser": "Obesity is a chronic relapsing disease associated with substantial morbidity, mortality, and health…",
+      "category": "Trial results",
+      "compounds": [
+        "Tirzepatide",
+        "Retatrutide",
+        "Cagrilintide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42444567)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42444567/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-14T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
       "popularity": 44,
       "isMajorUpdate": false
     },
     {
-      "id": "ct-NCT06632444",
-      "headline": "LIVERAGE™: A Study to Test Whether Survodutide Helps People With a Liver Disease Called…",
-      "summary": "This study is open to adults who are at least 18 years old living with obesity and have: * a confirmed liver disease called non-alcoholic steatohepatitis (NASH)/metabolic associated steatohepatitis (MASH) and * moderate or advanced liver fibrosis People with a history of acute or chronic liver diseases other than MASH or chronic alcohol intake cannot take part in this study. Primary outcome: Part 1: Resolution of MASH without worsening of liver fibrosis on MASH Clinical Research Network (CRN) fibrosis score….",
-      "teaser": "This study is open to adults who are at least 18 years old living with obesity and have: * a…",
+      "id": "pm-42444443",
+      "headline": "The Crunchometer, a low-cost, open-source acoustic analysis of feeding microstructure",
+      "summary": "Elucidating the neuronal circuits that govern appetite requires precise, high-resolution monitoring of the microstructure of solid food consumption, a need unmet by existing tools, which are either costly or lack the temporal resolution to align feeding events with neuronal activity.",
+      "teaser": "Elucidating the neuronal circuits that govern appetite requires precise, high-resolution monitoring…",
+      "category": "General",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42444443)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42444443/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 42,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07702461",
+      "headline": "Determination of Resistance Training Status for Patients on Glucagon-Like Peptide-1…",
+      "summary": "This study examines how adults who take a GLP-1 receptor agonist medication (such as semaglutide \\[Ozempic, Wegovy, Rybelsus\\], liraglutide \\[Saxenda, Victoza\\], or tirzepatide \\[Mounjaro, Zepbound\\]) perform resistance (strength) training before and after starting their medication. Primary outcome: Change in Resistance Training Status Before Versus Since GLP-1 Receptor Agonist Initiation.",
+      "teaser": "This study examines how adults who take a GLP-1 receptor agonist medication (such as semaglutide…",
       "category": "Trial results",
       "compounds": [
+        "Semaglutide",
+        "Tirzepatide",
+        "Liraglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07702461)",
+          "url": "https://clinicaltrials.gov/study/NCT07702461",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 40,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07701460",
+      "headline": "Assessing Follow up Trajectories in Eating, Routines, and Weight After GLP-1",
+      "summary": "Many people who use GLP-1 medications (such as semaglutide or tirzepatide) achieve meaningful weight loss, but maintaining that weight loss off after stopping the medication can be very challenging. Primary outcome: Percentage of weight loss maintained.",
+      "teaser": "Many people who use GLP-1 medications (such as semaglutide or tirzepatide) achieve meaningful…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide",
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07701460)",
+          "url": "https://clinicaltrials.gov/study/NCT07701460",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 38,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07115069",
+      "headline": "Comparison of Body Composition Changes With Weight Loss Interventions",
+      "summary": "This study is being done to compare the effects of a newer class of weight loss medications to weight loss surgery on the body's muscle, metabolism, and side effects over time. Primary outcome: Skeletal Muscle Loss; Skeletal Muscle Loss; Patient Assessment of Upper Gastrointestinal Disorders Symptoms….",
+      "teaser": "This study is being done to compare the effects of a newer class of weight loss medications to…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide",
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07115069)",
+          "url": "https://clinicaltrials.gov/study/NCT07115069",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 36,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42443144",
+      "headline": "Safety Profile of Tirzepatide in Real-World Clinical Practice: A Pharmacovigilance Study…",
+      "summary": "Tirzepatide, a first-in-class dual GIP/GLP-1 receptor agonist, was approved by the FDA for type 2 diabetes mellitus (2022) and chronic weight management (2023). Despite superior efficacy in trials, its real-world safety profile remains incompletely characterised.",
+      "teaser": "Tirzepatide, a first-in-class dual GIP/GLP-1 receptor agonist, was approved by the FDA for type 2…",
+      "category": "Regulatory",
+      "compounds": [
+        "Semaglutide",
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42443144)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42443144/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-13T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 34,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT05202353",
+      "headline": "A Study in People With Obesity to Test the Effects of BI 456906 Compared With Semaglutide…",
+      "summary": "This study is open to adults with obesity. People with a body mass index (BMI) in the range from 30 to 40 kg/m2 and a body weight of 70 to 150 kg can participate in the study. Primary outcome: Percentage of glucagon (GCG) receptors occupancy in the liver using Positron emission tomography (PET) imaging at End….",
+      "teaser": "This study is open to adults with obesity.",
+      "category": "New compound",
+      "compounds": [
+        "Semaglutide",
         "Survodutide"
       ],
       "sources": [
         {
-          "name": "ClinicalTrials.gov (NCT06632444)",
-          "url": "https://clinicaltrials.gov/study/NCT06632444",
+          "name": "ClinicalTrials.gov (NCT05202353)",
+          "url": "https://clinicaltrials.gov/study/NCT05202353",
           "kind": "trial"
         }
       ],
-      "publishedAt": "2026-07-09T00:00:00Z",
+      "publishedAt": "2026-07-10T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 42,
+      "popularity": 32,
       "isMajorUpdate": false
     },
     {
@@ -1066,28 +1210,28 @@
       ],
       "publishedAt": "2026-07-09T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 40,
+      "popularity": 30,
       "isMajorUpdate": false
     },
     {
-      "id": "ct-NCT07357766",
-      "headline": "A Research Study to Compare Different Versions of Injectable CagriSema and Placebo in…",
-      "summary": "This study is being done to find out how well a medicine called CagriSema helps people with overweight or obesity lose weight. CagriSema is still being tested in studies and is not yet available for doctors to prescribe. Primary outcome: Relative change in body weight.",
-      "teaser": "This study is being done to find out how well a medicine called CagriSema helps people with…",
+      "id": "ct-NCT06077864",
+      "headline": "A Study to Test the Effect of Survodutide (BI 456906) on Cardiovascular Safety in People…",
+      "summary": "This study is open to adults who are at least 18 years old and have a body mass index (BMI) of 27 kg/m2 or more. People can take part if they have cardiovascular or chronic kidney disease. Primary outcome: Time to first occurrence of any of the adjudicated components of the composite endpoint consisting of: CV death….",
+      "teaser": "This study is open to adults who are at least 18 years old and have a body mass index (BMI) of 27…",
       "category": "Trial results",
       "compounds": [
-        "Cagrilintide"
+        "Survodutide"
       ],
       "sources": [
         {
-          "name": "ClinicalTrials.gov (NCT07357766)",
-          "url": "https://clinicaltrials.gov/study/NCT07357766",
+          "name": "ClinicalTrials.gov (NCT06077864)",
+          "url": "https://clinicaltrials.gov/study/NCT06077864",
           "kind": "trial"
         }
       ],
       "publishedAt": "2026-07-09T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 38,
+      "popularity": 28,
       "isMajorUpdate": false
     },
     {
@@ -1108,7 +1252,28 @@
       ],
       "publishedAt": "2026-07-09T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 36,
+      "popularity": 26,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07357766",
+      "headline": "A Research Study to Compare Different Versions of Injectable CagriSema and Placebo in…",
+      "summary": "This study is being done to find out how well a medicine called CagriSema helps people with overweight or obesity lose weight. CagriSema is still being tested in studies and is not yet available for doctors to prescribe. Primary outcome: Relative change in body weight.",
+      "teaser": "This study is being done to find out how well a medicine called CagriSema helps people with…",
+      "category": "Trial results",
+      "compounds": [
+        "Cagrilintide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07357766)",
+          "url": "https://clinicaltrials.gov/study/NCT07357766",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-09T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 24,
       "isMajorUpdate": false
     },
     {
@@ -1129,179 +1294,7 @@
       ],
       "publishedAt": "2026-07-09T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 34,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42424619",
-      "headline": "Association of Glucagon-Like Peptide-1 Receptor Agonists With Menstrual Events in…",
-      "summary": "Glucagon-like peptide-1 receptor agonists are increasingly prescribed to reproductive-aged patients, yet pharmacovigilance data on menstrual outcomes remain sparse.",
-      "teaser": "Glucagon-like peptide-1 receptor agonists are increasingly prescribed to reproductive-aged…",
-      "category": "Regulatory",
-      "compounds": [
-        "Semaglutide",
-        "Tirzepatide",
-        "Liraglutide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42424619)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42424619/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 32,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06727331",
-      "headline": "Study of Tirzepatide for Recovery and Alcohol Use Management",
-      "summary": "This is a pilot, 4-week, double-blind, placebo-controlled, randomized trial of individuals with alcohol use disorder (AUD) to receive weekly injections of either tirzepatide (n=10) or matching placebo (n=10). The primary aim is to determine the effects of tirzepatide on cue-reactivity among individuals with AUD. Primary outcome: Cue-induced Cravings for Alcohol; Incidence and Severity of Adverse Events.",
-      "teaser": "This is a pilot, 4-week, double-blind, placebo-controlled, randomized trial of individuals with…",
-      "category": "Trial results",
-      "compounds": [
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06727331)",
-          "url": "https://clinicaltrials.gov/study/NCT06727331",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 30,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07693608",
-      "headline": "An Open-Label Tirzepatide Trial for Comorbid Obesity and Stimulant Use Disorder",
-      "summary": "This open label pilot study will assess the feasibility and preliminary efficacy of tirzepatide which will be prescribed under its FDA approved weight management indication in adults with moderate or severe methamphetamine, cocaine or prescription stimulant use disorder (MUD) who also meet criteria for obesity or overweight with comorbidities. Primary outcome: Effect of tirzepatide on self-reported use of stimulants.",
-      "teaser": "This open label pilot study will assess the feasibility and preliminary efficacy of tirzepatide…",
-      "category": "Regulatory",
-      "compounds": [
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07693608)",
-          "url": "https://clinicaltrials.gov/study/NCT07693608",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 28,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42425087",
-      "headline": "GLP-1 regulates osteo-adipogenic fate of BMSCs via HIF-2-AKT signaling and supports…",
-      "summary": "Bone marrow mesenchymal stem cell (BMSC) lineage commitment contributes to metabolic bone diseases, but whether glucagon-like peptide-1 (GLP-1) regulates osteo-adipogenic fate remains unclear.",
-      "teaser": "Bone marrow mesenchymal stem cell (BMSC) lineage commitment contributes to metabolic bone diseases…",
-      "category": "General",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42425087)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42425087/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 26,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42426564",
-      "headline": "Efficacy and Safety of SGLT2 Inhibitors and GLP-1 Receptor Agonists on Ventricular…",
-      "summary": "The effects of individual sodium-glucose cotransporter-2 inhibitors (SGLT2 inhibitors) and glucagon-like peptide-1 receptor agonists (GLP-1 receptor agonists) on ventricular arrhythmias (VAs) remain uncertain.",
-      "teaser": "The effects of individual sodium-glucose cotransporter-2 inhibitors (SGLT2 inhibitors) and…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide",
-        "Liraglutide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42426564)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42426564/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 24,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07417618",
-      "headline": "INcreTin-based thERapies for Cardiovascular Event PrevenTion in Patients With and Without…",
-      "summary": "Investigators are building an empirical evidence base for real world data through large-scale emulation of randomized controlled trials. The investigators' goal is to understand for what types of clinical questions real world data analyses can be conducted with confidence and how to implement such studies. Primary outcome: Composite of myocardial infarction, stroke, or all-cause mortality (with ASCVD); Composite of myocardial infarction, or….",
-      "teaser": "Investigators are building an empirical evidence base for real world data through large-scale…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07417618)",
-          "url": "https://clinicaltrials.gov/study/NCT07417618",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
       "popularity": 22,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07055607",
-      "headline": "A Two-year Prospective, Observational Study of Wegovy in Real-world Clinical Practice",
-      "summary": "This observational study will explore how Wegovy® (Semaglutide) is used in everyday situations, how it might affect things like weight, body mass index (BMI) and waist circumference, and what kind of impact it could have on overall quality of life. Primary outcome: Absolute change in body weight (kilograms [kg]); Percentage change in body weight (percentage [%]).",
-      "teaser": "This observational study will explore how Wegovy® (Semaglutide) is used in everyday situations, how…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07055607)",
-          "url": "https://clinicaltrials.gov/study/NCT07055607",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 20,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07619495",
-      "headline": "Injectable Semaglutide vs Dulaglutide in Individuals at Cardiovascular Risk",
-      "summary": "Investigators are building an empirical evidence base for real world data through large-scale emulation of randomized controlled trials. The investigators' goal is to understand for what types of clinical questions real world data analyses can be conducted with confidence and how to implement such studies. Primary outcome: Composite of all-cause mortality, myocardial infarction, or stroke..",
-      "teaser": "Investigators are building an empirical evidence base for real world data through large-scale…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide",
-        "Dulaglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07619495)",
-          "url": "https://clinicaltrials.gov/study/NCT07619495",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 20,
       "isMajorUpdate": false
     },
     {
@@ -1321,6 +1314,54 @@
         }
       ],
       "publishedAt": "2026-07-08T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 20,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42419792",
+      "headline": "Comparative effects of drugs for adults with overweight or obesity: systematic review and…",
+      "summary": "To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for adults with overweight or obesity to inform decision making for policymakers, payers, clinicians, and patients.",
+      "teaser": "To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide",
+        "Tirzepatide",
+        "Retatrutide",
+        "Cagrilintide",
+        "Mazdutide",
+        "Orforglipron",
+        "Liraglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42419792)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42419792/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-08T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 20,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT06143956",
+      "headline": "A Master Protocol Study (LY900038) of Multiple Intervention-Specific-Appendices (ISAs) in…",
+      "summary": "The purpose of this Phase-2 chronic weight management master protocol (CWMM) is to create a framework to evaluate the safety and efficacy of various investigational interventions for chronic weight management with intervention-specific appendices (ISAs). Primary outcome: Number of Participants Allocated to Each ISA.",
+      "teaser": "The purpose of this Phase-2 chronic weight management master protocol (CWMM) is to create a…",
+      "category": "Trial results",
+      "compounds": [
+        "Mazdutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT06143956)",
+          "url": "https://clinicaltrials.gov/study/NCT06143956",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-07T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
       "popularity": 20,
       "isMajorUpdate": false
