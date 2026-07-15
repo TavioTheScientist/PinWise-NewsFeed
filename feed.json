@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-14T16:58:08Z",
+  "generatedAt": "2026-07-15T17:50:16Z",
   "items": [
     {
       "id": "fda-bpc157-pcac-2026-07",
@@ -1038,6 +1038,137 @@
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician."
     },
     {
+      "id": "ct-NCT06934642",
+      "headline": "Effect of Tirzepatide on Markers of MASLD in Patients With Obesity",
+      "summary": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) is the most common cause of chronic liver disease worldwide and predominately affects individuals with overweight and obesity, as well as those with type 2 diabetes and cardiovascular disease. Primary outcome: Biomarkers associated with MASLD.",
+      "teaser": "Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) is the most common cause of…",
+      "category": "Trial results",
+      "compounds": [
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT06934642)",
+          "url": "https://clinicaltrials.gov/study/NCT06934642",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-15T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 44,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42454991",
+      "headline": "Thermosensitive Hydrogels for Sustained Semaglutide Release: Overcoming Weight Loss…",
+      "summary": "A series of semaglutide-loaded sustained-release formulations is developed using thermosensitive hydrogel as the release system. Micro-needle jet injection (MNJI) devices are used to deliver the highly viscous material and achieve a desired dispersion at delivery.",
+      "teaser": "A series of semaglutide-loaded sustained-release formulations is developed using thermosensitive…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42454991)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42454991/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-15T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 42,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42455418",
+      "headline": "Incretin-Based Therapies in Doxorubicin-Induced Cardiotoxicity: A Systematic Review of…",
+      "summary": "Doxorubicin (DOX)-induced cardiotoxicity remains a major limitation of cancer therapy. Incretin-based therapies are established cardiometabolic agents with pleiotropic cardiovascular effects; however, their potential role in mitigating DOX-related cardiac injury has not been systematically synthesized.",
+      "teaser": "Doxorubicin (DOX)-induced cardiotoxicity remains a major limitation of cancer therapy.",
+      "category": "General",
+      "compounds": [
+        "Semaglutide",
+        "Tirzepatide",
+        "Liraglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42455418)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42455418/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-15T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 40,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07701005",
+      "headline": "Non-Invasive Hepatic and Metabolic Index Changes After Incretin Therapy in…",
+      "summary": "This single-center, retrospective observational cohort study evaluated early changes in non-invasive hepatic and metabolic indices (FIB-4, APRI, HSI, and the triglyceride-glucose \\[TyG\\] index) in adults with overweight or obesity who received once-weekly subcutaneous semaglutide or tirzepatide for metabolic risk reduction related to metabolic dysfunction-associated steatotic liver disease (MASLD). Primary outcome: Change in Fibrosis-4 Index (FIB-4); Change in AST-to-Platelet Ratio Index (APRI); Change in Hepatic Steatosis Index….",
+      "teaser": "This single-center, retrospective observational cohort study evaluated early changes in…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide",
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07701005)",
+          "url": "https://clinicaltrials.gov/study/NCT07701005",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-15T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 38,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT06575738",
+      "headline": "Physiologic Response to Bariatric Surgery and the Impact of Adjunct Semaglutide in…",
+      "summary": "The study plans to learn more about what happens to the body after bariatric surgery in people 12 to 24 years old. The study aims to understand why people respond differently to bariatric surgery and how to define success beyond weight loss alone. Primary outcome: Observational phase: Change in fasting glucagon-like peptide-1 (GLP1), measured by blood levels; Observational phase….",
+      "teaser": "The study plans to learn more about what happens to the body after bariatric surgery in people 12…",
+      "category": "New compound",
+      "compounds": [
+        "Semaglutide",
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT06575738)",
+          "url": "https://clinicaltrials.gov/study/NCT06575738",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-15T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 36,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42452898",
+      "headline": "Amylin Analogs: The Next Major Class of Weight Loss Therapy: A Review of Experimental…",
+      "summary": "The management of the disease of obesity has been transformed by incretin-based therapies; however, additional and alternative therapeutic strategies are needed to address its biological complexity.",
+      "teaser": "The management of the disease of obesity has been transformed by incretin-based therapies; however…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide",
+        "Cagrilintide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42452898)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42452898/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 34,
+      "isMajorUpdate": false
+    },
+    {
       "id": "pm-42444567",
       "headline": "Medical Treatments for Obesity: What Does the Future Have in Store?",
       "summary": "Obesity is a chronic relapsing disease associated with substantial morbidity, mortality, and health care costs.",
@@ -1057,51 +1188,7 @@
       ],
       "publishedAt": "2026-07-14T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 44,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42444443",
-      "headline": "The Crunchometer, a low-cost, open-source acoustic analysis of feeding microstructure",
-      "summary": "Elucidating the neuronal circuits that govern appetite requires precise, high-resolution monitoring of the microstructure of solid food consumption, a need unmet by existing tools, which are either costly or lack the temporal resolution to align feeding events with neuronal activity.",
-      "teaser": "Elucidating the neuronal circuits that govern appetite requires precise, high-resolution monitoring…",
-      "category": "General",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42444443)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42444443/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-14T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 42,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07702461",
-      "headline": "Determination of Resistance Training Status for Patients on Glucagon-Like Peptide-1…",
-      "summary": "This study examines how adults who take a GLP-1 receptor agonist medication (such as semaglutide \\[Ozempic, Wegovy, Rybelsus\\], liraglutide \\[Saxenda, Victoza\\], or tirzepatide \\[Mounjaro, Zepbound\\]) perform resistance (strength) training before and after starting their medication. Primary outcome: Change in Resistance Training Status Before Versus Since GLP-1 Receptor Agonist Initiation.",
-      "teaser": "This study examines how adults who take a GLP-1 receptor agonist medication (such as semaglutide…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide",
-        "Tirzepatide",
-        "Liraglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07702461)",
-          "url": "https://clinicaltrials.gov/study/NCT07702461",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-14T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 40,
+      "popularity": 32,
       "isMajorUpdate": false
     },
     {
@@ -1123,51 +1210,7 @@
       ],
       "publishedAt": "2026-07-14T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 38,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07115069",
-      "headline": "Comparison of Body Composition Changes With Weight Loss Interventions",
-      "summary": "This study is being done to compare the effects of a newer class of weight loss medications to weight loss surgery on the body's muscle, metabolism, and side effects over time. Primary outcome: Skeletal Muscle Loss; Skeletal Muscle Loss; Patient Assessment of Upper Gastrointestinal Disorders Symptoms….",
-      "teaser": "This study is being done to compare the effects of a newer class of weight loss medications to…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide",
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07115069)",
-          "url": "https://clinicaltrials.gov/study/NCT07115069",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-14T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 36,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42443144",
-      "headline": "Safety Profile of Tirzepatide in Real-World Clinical Practice: A Pharmacovigilance Study…",
-      "summary": "Tirzepatide, a first-in-class dual GIP/GLP-1 receptor agonist, was approved by the FDA for type 2 diabetes mellitus (2022) and chronic weight management (2023). Despite superior efficacy in trials, its real-world safety profile remains incompletely characterised.",
-      "teaser": "Tirzepatide, a first-in-class dual GIP/GLP-1 receptor agonist, was approved by the FDA for type 2…",
-      "category": "Regulatory",
-      "compounds": [
-        "Semaglutide",
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42443144)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42443144/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-13T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 34,
+      "popularity": 30,
       "isMajorUpdate": false
     },
     {
@@ -1189,28 +1232,7 @@
       ],
       "publishedAt": "2026-07-10T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 32,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06632457",
-      "headline": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver…",
-      "summary": "This study is open to adults who are at least 18 years old and have: * A confirmed liver disease called non-alcoholic steatohepatitis (NASH) or * A confirmed liver disease called metabolic-associated steatohepatitis (MASH) * BMI of 27 kg/m2 or more or * 25 kg/m2 or more if the participant is Asian. Primary outcome: Time to first occurrence of any component of the composite clinical endpoint (at EoS) consisting of: all-cause….",
-      "teaser": "This study is open to adults who are at least 18 years old and have: * A confirmed liver disease…",
-      "category": "Trial results",
-      "compounds": [
-        "Survodutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06632457)",
-          "url": "https://clinicaltrials.gov/study/NCT06632457",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 30,
+      "popularity": 28,
       "isMajorUpdate": false
     },
     {
@@ -1231,28 +1253,28 @@
       ],
       "publishedAt": "2026-07-09T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 28,
+      "popularity": 26,
       "isMajorUpdate": false
     },
     {
-      "id": "ct-NCT07605052",
-      "headline": "A Research Study to Compare Blood Levels of Two Different Versions of Cagrilintide in…",
-      "summary": "The purpose of this clinical study is to compare 2 different versions cagrilintide and see how these work in people living with excess body weight. Participant will get either cagrilintide B or cagrilintide D injections. Primary outcome: AUCss: area under the total cagrilintide concentration-time curve at steady state after 5th dosing of cagrilintide….",
-      "teaser": "The purpose of this clinical study is to compare 2 different versions cagrilintide and see how…",
-      "category": "New compound",
+      "id": "ct-NCT06632457",
+      "headline": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver…",
+      "summary": "This study is open to adults who are at least 18 years old and have: * A confirmed liver disease called non-alcoholic steatohepatitis (NASH) or * A confirmed liver disease called metabolic-associated steatohepatitis (MASH) * BMI of 27 kg/m2 or more or * 25 kg/m2 or more if the participant is Asian. Primary outcome: Time to first occurrence of any component of the composite clinical endpoint (at EoS) consisting of: all-cause….",
+      "teaser": "This study is open to adults who are at least 18 years old and have: * A confirmed liver disease…",
+      "category": "Trial results",
       "compounds": [
-        "Cagrilintide"
+        "Survodutide"
       ],
       "sources": [
         {
-          "name": "ClinicalTrials.gov (NCT07605052)",
-          "url": "https://clinicaltrials.gov/study/NCT07605052",
+          "name": "ClinicalTrials.gov (NCT06632457)",
+          "url": "https://clinicaltrials.gov/study/NCT06632457",
           "kind": "trial"
         }
       ],
       "publishedAt": "2026-07-09T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 26,
+      "popularity": 24,
       "isMajorUpdate": false
     },
     {
@@ -1273,7 +1295,7 @@
       ],
       "publishedAt": "2026-07-09T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 24,
+      "popularity": 22,
       "isMajorUpdate": false
     },
     {
@@ -1294,7 +1316,28 @@
       ],
       "publishedAt": "2026-07-09T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 22,
+      "popularity": 20,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07605052",
+      "headline": "A Research Study to Compare Blood Levels of Two Different Versions of Cagrilintide in…",
+      "summary": "The purpose of this clinical study is to compare 2 different versions cagrilintide and see how these work in people living with excess body weight. Participant will get either cagrilintide B or cagrilintide D injections. Primary outcome: AUCss: area under the total cagrilintide concentration-time curve at steady state after 5th dosing of cagrilintide….",
+      "teaser": "The purpose of this clinical study is to compare 2 different versions cagrilintide and see how…",
+      "category": "New compound",
+      "compounds": [
+        "Cagrilintide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07605052)",
+          "url": "https://clinicaltrials.gov/study/NCT07605052",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-09T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 20,
       "isMajorUpdate": false
     },
     {
@@ -1314,54 +1357,6 @@
         }
       ],
       "publishedAt": "2026-07-08T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 20,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42419792",
-      "headline": "Comparative effects of drugs for adults with overweight or obesity: systematic review and…",
-      "summary": "To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for adults with overweight or obesity to inform decision making for policymakers, payers, clinicians, and patients.",
-      "teaser": "To provide an up-to-date evidence summary about the comparative benefits and harms of drugs for…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide",
-        "Tirzepatide",
-        "Retatrutide",
-        "Cagrilintide",
-        "Mazdutide",
-        "Orforglipron",
-        "Liraglutide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42419792)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42419792/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-08T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 20,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06143956",
-      "headline": "A Master Protocol Study (LY900038) of Multiple Intervention-Specific-Appendices (ISAs) in…",
-      "summary": "The purpose of this Phase-2 chronic weight management master protocol (CWMM) is to create a framework to evaluate the safety and efficacy of various investigational interventions for chronic weight management with intervention-specific appendices (ISAs). Primary outcome: Number of Participants Allocated to Each ISA.",
-      "teaser": "The purpose of this Phase-2 chronic weight management master protocol (CWMM) is to create a…",
-      "category": "Trial results",
-      "compounds": [
-        "Mazdutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06143956)",
-          "url": "https://clinicaltrials.gov/study/NCT06143956",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-07T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
       "popularity": 20,
       "isMajorUpdate": false
