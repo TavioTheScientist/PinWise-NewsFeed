@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-16T16:57:24Z",
+  "generatedAt": "2026-07-17T16:52:28Z",
   "items": [
     {
       "id": "fda-bpc157-pcac-2026-07",
@@ -1038,6 +1038,177 @@
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician."
     },
     {
+      "id": "ct-NCT05669755",
+      "headline": "REDEFINE 3: A Research Study to See the Effects of CagriSema in People Living With…",
+      "summary": "This study will look at the effects of CagriSema on cardiovascular events (for example heart attack and stroke) in people living with cardiovascular disease. Participants will either get CagriSema or a dummy medicine (also called \"placebo\") which has no effect on the body. Primary outcome: Time to first occurrence of 3-point major adverse cardiovascular event (MACE), a composite endpoint consisting of….",
+      "teaser": "This study will look at the effects of CagriSema on cardiovascular events (for example heart attack…",
+      "category": "Trial results",
+      "compounds": [
+        "Cagrilintide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT05669755)",
+          "url": "https://clinicaltrials.gov/study/NCT05669755",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-17T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 44,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42467408",
+      "headline": "Obese and overweight patients with type 2 diabetes mellitus are not treated optimally -…",
+      "summary": "Type 2 diabetes mellitus (T2DM) pharmacotherapy guidelines recommend the assessment of individual cardiovascular (CV) risk. However, obesity still seems of lesser importance in the context of CV risk.",
+      "teaser": "Type 2 diabetes mellitus (T2DM) pharmacotherapy guidelines recommend the assessment of individual…",
+      "category": "Guidance",
+      "compounds": [
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42467408)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42467408/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-17T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 42,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT06603571",
+      "headline": "A Study to Investigate Weight Management With LY3841136 and Tirzepatide (LY3298176)…",
+      "summary": "The main purpose of this study, performed under the master protocol W8M-MC-CWMM (NCT06143956), is to investigate the safety and efficacy of LY3841136 for chronic weight management alone or in combination with Tirzepatide across a wide dose range in participants with Type 2 Diabetes. Primary outcome: Percent Change from Baseline in Body Weight.",
+      "teaser": "The main purpose of this study, performed under the master protocol W8M-MC-CWMM (NCT06143956), is…",
+      "category": "Trial results",
+      "compounds": [
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT06603571)",
+          "url": "https://clinicaltrials.gov/study/NCT06603571",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-17T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 40,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07602699",
+      "headline": "Multi-Site Trial of Tirzepatide for Smoking Cessation",
+      "summary": ", post-cessation weight gain) in treatment-seeking people who smoke (PWS) with overweight or obesity. Primary outcome: 7-day point prevalence abstinence.",
+      "teaser": ", post-cessation weight gain) in treatment-seeking people who smoke (PWS) with overweight or…",
+      "category": "Trial results",
+      "compounds": [
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07602699)",
+          "url": "https://clinicaltrials.gov/study/NCT07602699",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-17T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 38,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07165028",
+      "headline": "A Master Protocol of Multiple Agents in Adults With Metabolic Dysfunction-Associated…",
+      "summary": "The main purpose of the SYNERGY-OUTCOMES study is to find out whether retatrutide and tirzepatide can prevent major adverse liver outcomes (MALO) in people with high-risk metabolic dysfunction-associated steatotic liver disease (MASLD). Primary outcome: Time to First Occurrence of Any Component of the Composite Endpoint for Major Adverse Liver Outcomes (MALO).",
+      "teaser": "The main purpose of the SYNERGY-OUTCOMES study is to find out whether retatrutide and tirzepatide…",
+      "category": "Trial results",
+      "compounds": [
+        "Tirzepatide",
+        "Retatrutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07165028)",
+          "url": "https://clinicaltrials.gov/study/NCT07165028",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-17T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 36,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42467193",
+      "headline": "Evolving utilization of bariatric surgery since the rise of semaglutide and tirzepatide",
+      "summary": "Semaglutide and tirzepatide have transformed obesity treatment, but recent changes to bariatric surgery utilization are not well understood. Epic's nationwide Cosmos database was queried for patients who underwent primary sleeve gastrectomy or gastric bypass between 2018 and 2025.",
+      "teaser": "Semaglutide and tirzepatide have transformed obesity treatment, but recent changes to bariatric…",
+      "category": "General",
+      "compounds": [
+        "Semaglutide",
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42467193)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42467193/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-17T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 34,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07253285",
+      "headline": "A Research Study on How Well Cagrilintide and CagriSema Work in Children and Adolescents…",
+      "summary": "This study will look at how well CagriSema and cagrilintide help children and adolescents with excess body weight lose weight. The study has 2 parts: main and extension study. Primary outcome: Relative change in body mass index (BMI).",
+      "teaser": "This study will look at how well CagriSema and cagrilintide help children and adolescents with…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide",
+        "Cagrilintide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07253285)",
+          "url": "https://clinicaltrials.gov/study/NCT07253285",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-17T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 32,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT06005012",
+      "headline": "Semaglutide Treatment in the Real-world for Fibrosis Due to NAFLD in Obesity and T2DM",
+      "summary": "Conduct a community intervention study that will 1) validate a screening approach to identify patients at risk for advanced NAFLD in the obese or T2DM population, and 2) test whether semaglutide treatment is effective for the management of significant fibrosis due to NAFLD in high-risk patients. Primary outcome: Change in fibrosis due to NAFLD.",
+      "teaser": "Conduct a community intervention study that will 1) validate a screening approach to identify…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT06005012)",
+          "url": "https://clinicaltrials.gov/study/NCT06005012",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-17T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 30,
+      "isMajorUpdate": false
+    },
+    {
       "id": "ct-NCT06817356",
       "headline": "A Study to Evaluate Mazdutide Compared With Placebo in Participants With Alcohol Use…",
       "summary": "The objective of this proof-of-concept study to evaluate mazdutide in participants with alcohol use disorder (AUD). For any individual participant, the maximum duration of study participation is approximately 36 weeks, including screening and posttreatment follow-up. Primary outcome: Behaviors Associated with Alcohol Use Disorder (AUD) as Assessed by the Timeline Followback Method.",
@@ -1055,113 +1226,7 @@
       ],
       "publishedAt": "2026-07-16T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 44,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06737042",
-      "headline": "Efficacy and Safety of GZR18 Every 2 Weeks Versus Tirzepatide and Placebo in Obese or…",
-      "summary": "This is a Phase 2 study to evaluate the safety and efficacy of 24, 36, and 48 mg GZR18 (Q2W) compared with placebo and 15 mg tirzepatide (QW). Primary outcome: Primary Objective.",
-      "teaser": "This is a Phase 2 study to evaluate the safety and efficacy of 24, 36, and 48 mg GZR18 (Q2W)…",
-      "category": "Trial results",
-      "compounds": [
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06737042)",
-          "url": "https://clinicaltrials.gov/study/NCT06737042",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-16T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 42,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07701460",
-      "headline": "Assessing Follow up Trajectories in Eating, Routines, and Weight After GLP-1",
-      "summary": "Many people who use GLP-1 medications (such as semaglutide or tirzepatide) achieve meaningful weight loss, but maintaining that weight loss off after stopping the medication can be very challenging. Primary outcome: Percentage of weight loss maintained.",
-      "teaser": "Many people who use GLP-1 medications (such as semaglutide or tirzepatide) achieve meaningful…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide",
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07701460)",
-          "url": "https://clinicaltrials.gov/study/NCT07701460",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-16T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 40,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07707778",
-      "headline": "Tirzepatide's Effects on Epigenetic Aging and Metabolic Restoration in Virally Suppressed…",
-      "summary": "This study is a pilot, open-lable, two-arm study. The investigators will enroll virally suppressed people living with HIV and obesity to evaluate the effect of tirzepatide on epigenetic aging, assessed by DNA methylation-based clocks using peripheral blood. Primary outcome: Second generation epigenetic aging clock; Third generation epigenetic aging clock.",
-      "teaser": "This study is a pilot, open-lable, two-arm study.",
-      "category": "Trial results",
-      "compounds": [
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07707778)",
-          "url": "https://clinicaltrials.gov/study/NCT07707778",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-16T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 38,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07539415",
-      "headline": "A Phase 1 Clinical Trial to Assess the Safety of DWRX5003 and Relative Bioavailability to…",
-      "summary": "Phase 1 Safety and Relative Bioavailability Study of DWRX5003 in Healthy Adults Primary outcome: AUC 0-t; Cmax.",
-      "teaser": "Phase 1 Safety and Relative Bioavailability Study of DWRX5003 in Healthy Adults Primary outcome…",
-      "category": "New compound",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07539415)",
-          "url": "https://clinicaltrials.gov/study/NCT07539415",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-16T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 36,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06814938",
-      "headline": "A Study of a Novel Precision Medicine Approach For Obesity",
-      "summary": "This study is being done to assess the efficacy of a saliva- based biomarker to predict response to semaglutide for the treatment of obesity. Primary outcome: Change in Total Body Weight at 24 weeks.",
-      "teaser": "This study is being done to assess the efficacy of a saliva- based biomarker to predict response to…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06814938)",
-          "url": "https://clinicaltrials.gov/study/NCT06814938",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-16T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 34,
+      "popularity": 28,
       "isMajorUpdate": false
     },
     {
@@ -1182,7 +1247,7 @@
       ],
       "publishedAt": "2026-07-16T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 32,
+      "popularity": 26,
       "isMajorUpdate": false
     },
     {
@@ -1204,29 +1269,7 @@
       ],
       "publishedAt": "2026-07-15T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 30,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42457940",
-      "headline": "Vutiglabridin overcomes the GLP-1 RA-associated weight-loss plateau to achieve normal…",
-      "summary": "Although glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are highly effective for body weight reduction, there remains a critical unmet need for complementary strategies that drive selective fat loss and sustain long-term weight reduction.",
-      "teaser": "Although glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are highly effective for body weight…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide",
-        "Liraglutide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42457940)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42457940/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-15T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 28,
+      "popularity": 24,
       "isMajorUpdate": false
     },
     {
@@ -1248,7 +1291,7 @@
       ],
       "publishedAt": "2026-07-14T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 26,
+      "popularity": 22,
       "isMajorUpdate": false
     },
     {
@@ -1271,28 +1314,7 @@
       ],
       "publishedAt": "2026-07-14T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 24,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42457543",
-      "headline": "Real-world clinical outcomes of tirzepatide administration in older patients with type 2…",
-      "summary": "In an aging society, the establishment of safe and effective treatment strategies for older patients with type 2 diabetes is crucial. We performed a secondary analysis of the Hokkaido-TZP study (UMIN000056962), evaluating the real-world outcomes of tirzepatide in patients aged &#x2265;65 years.",
-      "teaser": "In an aging society, the establishment of safe and effective treatment strategies for older…",
-      "category": "Trial results",
-      "compounds": [
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42457543)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42457543/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-14T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 22,
+      "popularity": 20,
       "isMajorUpdate": false
     },
     {
@@ -1330,27 +1352,6 @@
         {
           "name": "ClinicalTrials.gov (NCT06077864)",
           "url": "https://clinicaltrials.gov/study/NCT06077864",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 20,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06632457",
-      "headline": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver…",
-      "summary": "This study is open to adults who are at least 18 years old and have: * A confirmed liver disease called non-alcoholic steatohepatitis (NASH) or * A confirmed liver disease called metabolic-associated steatohepatitis (MASH) * BMI of 27 kg/m2 or more or * 25 kg/m2 or more if the participant is Asian. Primary outcome: Time to first occurrence of any component of the composite clinical endpoint (at EoS) consisting of: all-cause….",
-      "teaser": "This study is open to adults who are at least 18 years old and have: * A confirmed liver disease…",
-      "category": "Trial results",
-      "compounds": [
-        "Survodutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06632457)",
-          "url": "https://clinicaltrials.gov/study/NCT06632457",
           "kind": "trial"
         }
       ],
