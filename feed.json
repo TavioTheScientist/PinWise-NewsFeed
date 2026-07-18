@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-17T16:52:28Z",
+  "generatedAt": "2026-07-18T16:14:14Z",
   "items": [
     {
       "id": "fda-bpc157-pcac-2026-07",
@@ -1059,27 +1059,6 @@
       "isMajorUpdate": false
     },
     {
-      "id": "pm-42467408",
-      "headline": "Obese and overweight patients with type 2 diabetes mellitus are not treated optimally -…",
-      "summary": "Type 2 diabetes mellitus (T2DM) pharmacotherapy guidelines recommend the assessment of individual cardiovascular (CV) risk. However, obesity still seems of lesser importance in the context of CV risk.",
-      "teaser": "Type 2 diabetes mellitus (T2DM) pharmacotherapy guidelines recommend the assessment of individual…",
-      "category": "Guidance",
-      "compounds": [
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42467408)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42467408/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-17T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 42,
-      "isMajorUpdate": false
-    },
-    {
       "id": "ct-NCT06603571",
       "headline": "A Study to Investigate Weight Management With LY3841136 and Tirzepatide (LY3298176)…",
       "summary": "The main purpose of this study, performed under the master protocol W8M-MC-CWMM (NCT06143956), is to investigate the safety and efficacy of LY3841136 for chronic weight management alone or in combination with Tirzepatide across a wide dose range in participants with Type 2 Diabetes. Primary outcome: Percent Change from Baseline in Body Weight.",
@@ -1097,7 +1076,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 40,
+      "popularity": 42,
       "isMajorUpdate": false
     },
     {
@@ -1118,7 +1097,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 38,
+      "popularity": 40,
       "isMajorUpdate": false
     },
     {
@@ -1140,29 +1119,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 36,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42467193",
-      "headline": "Evolving utilization of bariatric surgery since the rise of semaglutide and tirzepatide",
-      "summary": "Semaglutide and tirzepatide have transformed obesity treatment, but recent changes to bariatric surgery utilization are not well understood. Epic's nationwide Cosmos database was queried for patients who underwent primary sleeve gastrectomy or gastric bypass between 2018 and 2025.",
-      "teaser": "Semaglutide and tirzepatide have transformed obesity treatment, but recent changes to bariatric…",
-      "category": "General",
-      "compounds": [
-        "Semaglutide",
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42467193)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42467193/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-17T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 34,
+      "popularity": 38,
       "isMajorUpdate": false
     },
     {
@@ -1184,7 +1141,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 32,
+      "popularity": 36,
       "isMajorUpdate": false
     },
     {
@@ -1205,7 +1162,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 30,
+      "popularity": 34,
       "isMajorUpdate": false
     },
     {
@@ -1226,7 +1183,7 @@
       ],
       "publishedAt": "2026-07-16T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 28,
+      "popularity": 32,
       "isMajorUpdate": false
     },
     {
@@ -1247,7 +1204,28 @@
       ],
       "publishedAt": "2026-07-16T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 26,
+      "popularity": 30,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42469146",
+      "headline": "Management of patients with cardiovascular disease and overweight/obesity: expert opinion…",
+      "summary": "Overweight and obesity are major global health challenges and key drivers of cardiovascular disease (CVD), yet patients with established CVD and excess body weight remain systematically under-recognized and undertreated.",
+      "teaser": "Overweight and obesity are major global health challenges and key drivers of cardiovascular disease…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42469146)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42469146/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-16T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 28,
       "isMajorUpdate": false
     },
     {
@@ -1269,7 +1247,7 @@
       ],
       "publishedAt": "2026-07-15T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 24,
+      "popularity": 26,
       "isMajorUpdate": false
     },
     {
@@ -1291,7 +1269,7 @@
       ],
       "publishedAt": "2026-07-14T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 22,
+      "popularity": 24,
       "isMajorUpdate": false
     },
     {
@@ -1314,7 +1292,7 @@
       ],
       "publishedAt": "2026-07-14T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 20,
+      "popularity": 22,
       "isMajorUpdate": false
     },
     {
@@ -1352,6 +1330,27 @@
         {
           "name": "ClinicalTrials.gov (NCT06077864)",
           "url": "https://clinicaltrials.gov/study/NCT06077864",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-09T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 20,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT06632457",
+      "headline": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver…",
+      "summary": "This study is open to adults who are at least 18 years old and have: * A confirmed liver disease called non-alcoholic steatohepatitis (NASH) or * A confirmed liver disease called metabolic-associated steatohepatitis (MASH) * BMI of 27 kg/m2 or more or * 25 kg/m2 or more if the participant is Asian. Primary outcome: Time to first occurrence of any component of the composite clinical endpoint (at EoS) consisting of: all-cause….",
+      "teaser": "This study is open to adults who are at least 18 years old and have: * A confirmed liver disease…",
+      "category": "Trial results",
+      "compounds": [
+        "Survodutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT06632457)",
+          "url": "https://clinicaltrials.gov/study/NCT06632457",
           "kind": "trial"
         }
       ],
