@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-18T16:14:14Z",
+  "generatedAt": "2026-07-19T16:15:30Z",
   "items": [
     {
       "id": "fda-bpc157-pcac-2026-07",
@@ -1038,6 +1038,27 @@
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician."
     },
     {
+      "id": "pm-42471364",
+      "headline": "Semaglutide promotes angiogenesis and blood-brain barrier repair after traumatic brain…",
+      "summary": "Blood-brain barrier (BBB) repair and angiogenesis after traumatic brain injury (TBI) are pivotal for brain tissue repair. However, the mismatch between the initiation of angiogenesis and BBB integrity may contribute to aggravated edema and neuronal loss.",
+      "teaser": "Blood-brain barrier (BBB) repair and angiogenesis after traumatic brain injury (TBI) are pivotal…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42471364)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42471364/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-18T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 44,
+      "isMajorUpdate": false
+    },
+    {
       "id": "ct-NCT05669755",
       "headline": "REDEFINE 3: A Research Study to See the Effects of CagriSema in People Living With…",
       "summary": "This study will look at the effects of CagriSema on cardiovascular events (for example heart attack and stroke) in people living with cardiovascular disease. Participants will either get CagriSema or a dummy medicine (also called \"placebo\") which has no effect on the body. Primary outcome: Time to first occurrence of 3-point major adverse cardiovascular event (MACE), a composite endpoint consisting of….",
@@ -1055,7 +1076,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 44,
+      "popularity": 42,
       "isMajorUpdate": false
     },
     {
@@ -1076,7 +1097,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 42,
+      "popularity": 40,
       "isMajorUpdate": false
     },
     {
@@ -1097,7 +1118,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 40,
+      "popularity": 38,
       "isMajorUpdate": false
     },
     {
@@ -1119,7 +1140,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 38,
+      "popularity": 36,
       "isMajorUpdate": false
     },
     {
@@ -1141,7 +1162,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 36,
+      "popularity": 34,
       "isMajorUpdate": false
     },
     {
@@ -1162,7 +1183,7 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 34,
+      "popularity": 32,
       "isMajorUpdate": false
     },
     {
@@ -1183,7 +1204,7 @@
       ],
       "publishedAt": "2026-07-16T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 32,
+      "popularity": 30,
       "isMajorUpdate": false
     },
     {
@@ -1200,27 +1221,6 @@
           "name": "ClinicalTrials.gov (NCT06982859)",
           "url": "https://clinicaltrials.gov/study/NCT06982859",
           "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-16T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 30,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42469146",
-      "headline": "Management of patients with cardiovascular disease and overweight/obesity: expert opinion…",
-      "summary": "Overweight and obesity are major global health challenges and key drivers of cardiovascular disease (CVD), yet patients with established CVD and excess body weight remain systematically under-recognized and undertreated.",
-      "teaser": "Overweight and obesity are major global health challenges and key drivers of cardiovascular disease…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42469146)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42469146/",
-          "kind": "journal"
         }
       ],
       "publishedAt": "2026-07-16T00:00:00Z",
@@ -1318,6 +1318,29 @@
       "isMajorUpdate": false
     },
     {
+      "id": "pm-42470876",
+      "headline": "GLP-1 receptor agonists in multiple sclerosis: a systematic review of preclinical and…",
+      "summary": "Multiple sclerosis (MS) is a chronic immune-mediated demyelinating disease. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) demonstrate anti-inflammatory and neuroprotective properties in preclinical models.",
+      "teaser": "Multiple sclerosis (MS) is a chronic immune-mediated demyelinating disease.",
+      "category": "Guidance",
+      "compounds": [
+        "Semaglutide",
+        "Liraglutide",
+        "Dulaglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42470876)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42470876/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-10T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 20,
+      "isMajorUpdate": false
+    },
+    {
       "id": "ct-NCT06077864",
       "headline": "A Study to Test the Effect of Survodutide (BI 456906) on Cardiovascular Safety in People…",
       "summary": "This study is open to adults who are at least 18 years old and have a body mass index (BMI) of 27 kg/m2 or more. People can take part if they have cardiovascular or chronic kidney disease. Primary outcome: Time to first occurrence of any of the adjudicated components of the composite endpoint consisting of: CV death….",
@@ -1330,27 +1353,6 @@
         {
           "name": "ClinicalTrials.gov (NCT06077864)",
           "url": "https://clinicaltrials.gov/study/NCT06077864",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-09T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 20,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06632457",
-      "headline": "LIVERAGE™ - Cirrhosis: A Study to Test Whether Survodutide Helps People With a Liver…",
-      "summary": "This study is open to adults who are at least 18 years old and have: * A confirmed liver disease called non-alcoholic steatohepatitis (NASH) or * A confirmed liver disease called metabolic-associated steatohepatitis (MASH) * BMI of 27 kg/m2 or more or * 25 kg/m2 or more if the participant is Asian. Primary outcome: Time to first occurrence of any component of the composite clinical endpoint (at EoS) consisting of: all-cause….",
-      "teaser": "This study is open to adults who are at least 18 years old and have: * A confirmed liver disease…",
-      "category": "Trial results",
-      "compounds": [
-        "Survodutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06632457)",
-          "url": "https://clinicaltrials.gov/study/NCT06632457",
           "kind": "trial"
         }
       ],
