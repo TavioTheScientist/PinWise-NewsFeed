@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-20T19:15:32Z",
+  "generatedAt": "2026-07-21T17:55:39Z",
   "items": [
     {
       "id": "fda-bpc157-pcac-2026-07",
@@ -1038,6 +1038,156 @@
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician."
     },
     {
+      "id": "ct-NCT07718126",
+      "headline": "Pre-hepatectomy Rehabilitation in Obese MASLD-Complicated Living Liver Donors With…",
+      "summary": "The purpose of this study is to evaluate the efficacy and safety of a short-term (12-week) prehabilitation strategy combining mazdutide (a novel GLP-1/GCG receptor dual agonist) with lifestyle optimization, compared to lifestyle optimization alone, in potential living liver transplantation donors with metabolic dysfunction-associated steatohepatitis (MASLD). Primary outcome: Proportion of Participants Achieving Resolution of MASLD Without Worsening of Liver Fibrosis (ROM).",
+      "teaser": "The purpose of this study is to evaluate the efficacy and safety of a short-term (12-week)…",
+      "category": "Trial results",
+      "compounds": [
+        "Mazdutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07718126)",
+          "url": "https://clinicaltrials.gov/study/NCT07718126",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 44,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07715929",
+      "headline": "Effect of Tirzepatide on Recurrence of Atrial Fibrillation After Catheter Ablation in…",
+      "summary": "Obese patients with atrial fibrillation (AF) have a high recurrence rate after catheter ablation, even at experienced centers. Weight reduction improves post-ablation outcomes, but lifestyle measures alone are difficult to sustain. Primary outcome: Number of Participants With Recurrence of Atrial Fibrillation, Atrial Flutter, or Atrial Tachycardia.",
+      "teaser": "Obese patients with atrial fibrillation (AF) have a high recurrence rate after catheter ablation…",
+      "category": "Trial results",
+      "compounds": [
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07715929)",
+          "url": "https://clinicaltrials.gov/study/NCT07715929",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 42,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42478869",
+      "headline": "Oral Semaglutide and CV Benefits in the SOUL Trial: How Do Baseline or Changes in HbA1c…",
+      "summary": "In the SOUL trial (NCT03914326), oral semaglutide reduced risk of major adverse cardiovascular (CV) events (MACE) by 14%. Whether baseline or changes in HbA1c or BMI are associated with these CV benefits is not known.",
+      "teaser": "In the SOUL trial (NCT03914326), oral semaglutide reduced risk of major adverse cardiovascular (CV)…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42478869)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42478869/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 40,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42479131",
+      "headline": "Respiratory Adverse Events of Weight-Loss Drugs: A Systematic Review and Meta-Analysis",
+      "summary": "The coexistence of obesity and asthma is increasingly common and associated with poorer asthma outcomes. Weight loss has been shown to improve asthma outcomes.",
+      "teaser": "The coexistence of obesity and asthma is increasingly common and associated with poorer asthma…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide",
+        "Tirzepatide",
+        "Liraglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42479131)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42479131/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 38,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT06975111",
+      "headline": "Focusing on the Menopausal Transition to Improve Mid-Life Women's Health",
+      "summary": "What if midlife women, who are inherently at an increased risk for future cardiometabolic disease due to transitioning into menopause, had access to a suite of evidence-based health interventions? Primary outcome: Epigenetic aging measurements of \"PhenoAge\"; Epigenetic aging measurements of \"GrimAge\".",
+      "teaser": "What if midlife women, who are inherently at an increased risk for future cardiometabolic disease…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT06975111)",
+          "url": "https://clinicaltrials.gov/study/NCT06975111",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 36,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT05503927",
+      "headline": "A Study to Evaluate the Safety of Exposure to Wegovy During Pregnancy",
+      "summary": "This is an observational cohort study using administrative insurance claims data. Primary outcome: Number of Infants with Major Congenital Malformation (MCM).",
+      "teaser": "This is an observational cohort study using administrative insurance claims data.",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT05503927)",
+          "url": "https://clinicaltrials.gov/study/NCT05503927",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 34,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07225816",
+      "headline": "Examination of How the Duration of Fasting and Temporary Stopping of GLP-1 Medications…",
+      "summary": "The purpose of this study is to investigate how the duration of fasting and temporary stopping of Glucagon-Like-Peptide 1 (GLP-1) medications affect the amount of food left in the stomach in people using liraglutide (injected), semaglutide (taken by mouth) or semaglutide (injected). Primary outcome: Occurrence of empty stomach (antrum grade 0 or 1) after fasting following a solid, high-fat meal after dosing of….",
+      "teaser": "The purpose of this study is to investigate how the duration of fasting and temporary stopping of…",
+      "category": "New compound",
+      "compounds": [
+        "Semaglutide",
+        "Liraglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07225816)",
+          "url": "https://clinicaltrials.gov/study/NCT07225816",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-21T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 32,
+      "isMajorUpdate": false
+    },
+    {
       "id": "ct-NCT07713992",
       "headline": "Efficacy and Safety of Mazdutide in Patients With Type 2 Diabetes Mellitus and Moderate…",
       "summary": "This is a multicenter, prospective, randomized controlled investigator-initiated trial (IIT) aimed at evaluating the efficacy and safety of switching to mazdutide therapy in patients with type 2 diabetes mellitus (T2DM) and moderate-to-severe non-alcoholic fatty liver disease (NAFLD) who have achieved glycemic control. Primary outcome: Absolute change in liver fat content measured by MRI-PDFF; Absolute change in liver fat content measured by liver….",
@@ -1056,7 +1206,7 @@
       ],
       "publishedAt": "2026-07-20T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 44,
+      "popularity": 30,
       "isMajorUpdate": false
     },
     {
@@ -1077,7 +1227,28 @@
       ],
       "publishedAt": "2026-07-20T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 42,
+      "popularity": 28,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT06297603",
+      "headline": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and…",
+      "summary": "The purpose of this study is to investigate the efficacy and safety of retatrutide compared with placebo in participants with Type 2 Diabetes and renal impairment, with inadequate glycemic control on basal insulin alone or a combination of basal insulin with or without metformin and/or sodium-glucose cotransporter-2 (SGLT2) inhibitor. Primary outcome: Change from Baseline in Hemoglobin A1c (HbA1c) (%).",
+      "teaser": "The purpose of this study is to investigate the efficacy and safety of retatrutide compared with…",
+      "category": "Trial results",
+      "compounds": [
+        "Retatrutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT06297603)",
+          "url": "https://clinicaltrials.gov/study/NCT06297603",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-20T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 26,
       "isMajorUpdate": false
     },
     {
@@ -1099,70 +1270,7 @@
       ],
       "publishedAt": "2026-07-20T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 40,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06297603",
-      "headline": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and…",
-      "summary": "The purpose of this study is to investigate the efficacy and safety of retatrutide compared with placebo in participants with Type 2 Diabetes and renal impairment, with inadequate glycemic control on basal insulin alone or a combination of basal insulin with or without metformin and/or sodium-glucose cotransporter-2 (SGLT2) inhibitor. Primary outcome: Change from Baseline in Hemoglobin A1c (HbA1c) (%).",
-      "teaser": "The purpose of this study is to investigate the efficacy and safety of retatrutide compared with…",
-      "category": "Trial results",
-      "compounds": [
-        "Retatrutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06297603)",
-          "url": "https://clinicaltrials.gov/study/NCT06297603",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-20T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 38,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06937086",
-      "headline": "Mirikizumab Administered at the Same Time as Tirzepatide in Adult Participants With…",
-      "summary": "The main purpose of this study is to show whether in these individuals, treatment with both mirikizumab and tirzepatide, compared with treatment with mirikizumab and placebo, leads to decrease or disappearance of UC symptoms, and loss of at least one-tenth of the overall body weight. Primary outcome: Percentage of Participants Who Simultaneously Achieve Clinical Remission and at Least 10% Weight Reduction.",
-      "teaser": "The main purpose of this study is to show whether in these individuals, treatment with both…",
-      "category": "Trial results",
-      "compounds": [
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06937086)",
-          "url": "https://clinicaltrials.gov/study/NCT06937086",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-20T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 36,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07707778",
-      "headline": "Tirzepatide's Effects on Epigenetic Aging and Metabolic Restoration in Virally Suppressed…",
-      "summary": "This study is a pilot, open-lable, two-arm study. The investigators will enroll virally suppressed people living with HIV and obesity to evaluate the effect of tirzepatide on epigenetic aging, assessed by DNA methylation-based clocks using peripheral blood. Primary outcome: Second generation epigenetic aging clock; Third generation epigenetic aging clock.",
-      "teaser": "This study is a pilot, open-lable, two-arm study.",
-      "category": "Trial results",
-      "compounds": [
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07707778)",
-          "url": "https://clinicaltrials.gov/study/NCT07707778",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-20T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 34,
+      "popularity": 24,
       "isMajorUpdate": false
     },
     {
@@ -1184,28 +1292,7 @@
       ],
       "publishedAt": "2026-07-20T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 32,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07711548",
-      "headline": "Can Two Dietary Interventions Maintain Weight Loss for 12 Months After GLP-1 Therapy in…",
-      "summary": "So far, treatment with semaglutide (Wegovy) for therapy of obesity demonstrates substantial effects. However, most patients do not desire life-long pharmaceutical therapy or discontinue this treatment regime. Primary outcome: weight in kg.",
-      "teaser": "So far, treatment with semaglutide (Wegovy) for therapy of obesity demonstrates substantial effects.",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07711548)",
-          "url": "https://clinicaltrials.gov/study/NCT07711548",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-20T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 30,
+      "popularity": 22,
       "isMajorUpdate": false
     },
     {
@@ -1227,29 +1314,7 @@
       ],
       "publishedAt": "2026-07-20T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 28,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06534411",
-      "headline": "A Research Study to See How Much CagriSema Lowers Blood Sugar and Body Weight Compared to…",
-      "summary": "This study will look at how much CagriSema lowers blood sugar and body weight in people with type 2 diabetes. CagriSema is a new investigational medicine. Primary outcome: Change in Glycated Haemoglobin (HbA1c); Relative Change in Body Weight.",
-      "teaser": "This study will look at how much CagriSema lowers blood sugar and body weight in people with type 2…",
-      "category": "Trial results",
-      "compounds": [
-        "Tirzepatide",
-        "Cagrilintide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06534411)",
-          "url": "https://clinicaltrials.gov/study/NCT06534411",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-17T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 26,
+      "popularity": 20,
       "isMajorUpdate": false
     },
     {
@@ -1271,92 +1336,26 @@
       ],
       "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 24,
+      "popularity": 20,
       "isMajorUpdate": false
     },
     {
-      "id": "ct-NCT06817356",
-      "headline": "A Study to Evaluate Mazdutide Compared With Placebo in Participants With Alcohol Use…",
-      "summary": "The objective of this proof-of-concept study to evaluate mazdutide in participants with alcohol use disorder (AUD). For any individual participant, the maximum duration of study participation is approximately 36 weeks, including screening and posttreatment follow-up. Primary outcome: Behaviors Associated with Alcohol Use Disorder (AUD) as Assessed by the Timeline Followback Method.",
-      "teaser": "The objective of this proof-of-concept study to evaluate mazdutide in participants with alcohol use…",
+      "id": "ct-NCT05669755",
+      "headline": "REDEFINE 3: A Research Study to See the Effects of CagriSema in People Living With…",
+      "summary": "This study will look at the effects of CagriSema on cardiovascular events (for example heart attack and stroke) in people living with cardiovascular disease. Participants will either get CagriSema or a dummy medicine (also called \"placebo\") which has no effect on the body. Primary outcome: Time to first occurrence of 3-point major adverse cardiovascular event (MACE), a composite endpoint consisting of….",
+      "teaser": "This study will look at the effects of CagriSema on cardiovascular events (for example heart attack…",
       "category": "Trial results",
       "compounds": [
-        "Mazdutide"
+        "Cagrilintide"
       ],
       "sources": [
         {
-          "name": "ClinicalTrials.gov (NCT06817356)",
-          "url": "https://clinicaltrials.gov/study/NCT06817356",
+          "name": "ClinicalTrials.gov (NCT05669755)",
+          "url": "https://clinicaltrials.gov/study/NCT05669755",
           "kind": "trial"
         }
       ],
-      "publishedAt": "2026-07-16T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 22,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42456707",
-      "headline": "Efficacy and safety of zalfermin co-administered with semaglutide in participants with…",
-      "summary": "This phase 2 study evaluated once-weekly zalfermin and semaglutide for efficacy and safety in patients with metabolic dysfunction-associated steatohepatitis and clinically significant fibrosis, including patients with compensated cirrhosis (F4c).",
-      "teaser": "This phase 2 study evaluated once-weekly zalfermin and semaglutide for efficacy and safety in…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide",
-        "Cagrilintide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42456707)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42456707/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-15T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 20,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42474323",
-      "headline": "GLP-1 Receptor Agonists and All-Cause Overdose Risk in Veterans With Type 2 Diabetes and…",
-      "summary": "Objective: Overdoses remain a major public health challenge. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have been proposed as a treatment for opioid use disorder (OUD) based on preclinical research.",
-      "teaser": "Objective: Overdoses remain a major public health challenge.",
-      "category": "Safety",
-      "compounds": [
-        "Semaglutide",
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42474323)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42474323/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-15T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 20,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42452898",
-      "headline": "Amylin Analogs: The Next Major Class of Weight Loss Therapy: A Review of Experimental…",
-      "summary": "The management of the disease of obesity has been transformed by incretin-based therapies; however, additional and alternative therapeutic strategies are needed to address its biological complexity.",
-      "teaser": "The management of the disease of obesity has been transformed by incretin-based therapies; however…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide",
-        "Cagrilintide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42452898)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42452898/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-14T00:00:00Z",
+      "publishedAt": "2026-07-17T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
       "popularity": 20,
       "isMajorUpdate": false
