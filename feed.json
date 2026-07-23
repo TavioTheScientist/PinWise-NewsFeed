@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-22T17:50:36Z",
+  "generatedAt": "2026-07-23T17:58:19Z",
   "items": [
     {
       "id": "fda-bpc157-pcac-2026-07",
@@ -1038,66 +1038,129 @@
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician."
     },
     {
-      "id": "pm-42483841",
-      "headline": "Cardiovascular Outcomes of GLP-1-Based Medicines Among People With Overweight and…",
-      "summary": "Cardiovascular (CV) outcomes of Glucagon-like peptide-1 (GLP-1)-based medicines among people with overweight and obese (OW/OB) population have been investigated by meta-analyses of randomized controlled trials (RCTs), but an overall summary is lacking.",
-      "teaser": "Cardiovascular (CV) outcomes of Glucagon-like peptide-1 (GLP-1)-based medicines among people with…",
+      "id": "ct-NCT06077864",
+      "headline": "A Study to Test the Effect of Survodutide (BI 456906) on Cardiovascular Safety in People…",
+      "summary": "This study is open to adults who are at least 18 years old and have a body mass index (BMI) of 27 kg/m2 or more. People can take part if they have cardiovascular or chronic kidney disease. Primary outcome: Time to first occurrence of any of the adjudicated components of the composite endpoint consisting of: CV death….",
+      "teaser": "This study is open to adults who are at least 18 years old and have a body mass index (BMI) of 27…",
       "category": "Trial results",
       "compounds": [
-        "Tirzepatide"
+        "Survodutide"
       ],
       "sources": [
         {
-          "name": "PubMed (42483841)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42483841/",
-          "kind": "journal"
+          "name": "ClinicalTrials.gov (NCT06077864)",
+          "url": "https://clinicaltrials.gov/study/NCT06077864",
+          "kind": "trial"
         }
       ],
-      "publishedAt": "2026-07-22T00:00:00Z",
+      "publishedAt": "2026-07-23T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
       "popularity": 44,
       "isMajorUpdate": false
     },
     {
-      "id": "ct-NCT07046819",
-      "headline": "Tirzepatide in MetALD",
-      "summary": "Background: People with alcohol use disorder (AUD) often develop metabolic alcohol-associated liver disease (MetALD). MetALD is a term for the heart, liver, obesity, and other issues that can accompany AUD. Primary outcome: Metabolic improvement from baseline as measured by percentage reduction of body weight and reduction in liver steatosis….",
-      "teaser": "Background: People with alcohol use disorder (AUD) often develop metabolic alcohol-associated liver…",
+      "id": "ct-NCT07035093",
+      "headline": "A Study of Retatrutide (LY3437943) in Participants Who Have Obesity or Overweight and…",
+      "summary": "The main purpose of this study is to evaluate the efficacy and safety of retatrutide in relieving chronic low back pain in participants who have obesity or overweight. Participation in the study will last about 80 weeks. Primary outcome: Change from Baseline in Pain Intensity Per Numeric Rating Scale; Percent Change from Baseline in Body Weight.",
+      "teaser": "The main purpose of this study is to evaluate the efficacy and safety of retatrutide in relieving…",
       "category": "Trial results",
       "compounds": [
-        "Tirzepatide"
+        "Retatrutide"
       ],
       "sources": [
         {
-          "name": "ClinicalTrials.gov (NCT07046819)",
-          "url": "https://clinicaltrials.gov/study/NCT07046819",
+          "name": "ClinicalTrials.gov (NCT07035093)",
+          "url": "https://clinicaltrials.gov/study/NCT07035093",
           "kind": "trial"
         }
       ],
-      "publishedAt": "2026-07-22T00:00:00Z",
+      "publishedAt": "2026-07-23T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
       "popularity": 42,
       "isMajorUpdate": false
     },
     {
-      "id": "ct-NCT07257484",
-      "headline": "Tirzepatide's Role in Postmenopausal HR+ Breast Cancer Survivors",
-      "summary": "This study will explore whether tirzepatide is a practical and acceptable treatment for postmenopausal females with a history of hormone receptor-positive breast cancer and obesity. Primary outcome: Percentage of participants completing week 24 visit with all required assessments.",
-      "teaser": "This study will explore whether tirzepatide is a practical and acceptable treatment for…",
-      "category": "Trial results",
+      "id": "ct-NCT07463846",
+      "headline": "A Study to Evaluate ALN-2232 in Participants With Obesity",
+      "summary": "The purpose of this study is to: * evaluate the safety, tolerability, efficacy, pharmacokinetics (PK), and pharmacodynamics (PD) of single ascending doses of ALN-2232 in patients with obesity * evaluate the safety, tolerability, efficacy, PK, and PD of multiple doses of ALN-2232 in patients with obesity * evaluate the safety, tolerability, efficacy, PK, and PD of multiple doses of ALN-2232 co-initiated with tirzepatide in patients with obesity Primary outcome: Part A: Frequency of Adverse Events (AEs); Part B: Percent Change from Baseline in Body Weight; Part C: Percent Change….",
+      "teaser": "The purpose of this study is to: * evaluate the safety, tolerability, efficacy, pharmacokinetics…",
+      "category": "New compound",
       "compounds": [
         "Tirzepatide"
       ],
       "sources": [
         {
-          "name": "ClinicalTrials.gov (NCT07257484)",
-          "url": "https://clinicaltrials.gov/study/NCT07257484",
+          "name": "ClinicalTrials.gov (NCT07463846)",
+          "url": "https://clinicaltrials.gov/study/NCT07463846",
           "kind": "trial"
         }
       ],
-      "publishedAt": "2026-07-22T00:00:00Z",
+      "publishedAt": "2026-07-23T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
       "popularity": 40,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "pm-42489869",
+      "headline": "Advances in proteomics research related to semaglutide: evidence from humans and animals",
+      "summary": "With the advancement of proteomics technologies, an increasing number of studies have begun to examine semaglutide-associated protein expression changes and pathway alterations across different biological contexts.",
+      "teaser": "With the advancement of proteomics technologies, an increasing number of studies have begun to…",
+      "category": "General",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42489869)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42489869/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-07-23T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 38,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07218354",
+      "headline": "Cessation or Reduction of Alcohol Consumption in Veterans: A Randomized, Double-Blind…",
+      "summary": "This clinical trial aims to test the effectiveness and safety of semaglutide, a GLP-1 receptor agonist, in treating moderate to severe alcohol use disorder (AUD) in Veterans. Primary outcome: Two-level reduction in the World Health Organization (WHO) risk drinking level assessed in the last 28 days of….",
+      "teaser": "This clinical trial aims to test the effectiveness and safety of semaglutide, a GLP-1 receptor…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07218354)",
+          "url": "https://clinicaltrials.gov/study/NCT07218354",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-23T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 36,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT05040087",
+      "headline": "Changing the Natural History of Type 2 Diabetes (\"CHANGE\" Study)",
+      "summary": "Diabetes is a disorder of high blood glucose, that tends to get worse; over time, patients need more and more drugs. Primary outcome: EFFECT SIZE; β-CELL FUNCTION - PRIMARY OUTCOME #2a; β-CELL FUNCTION - PRIMARY OUTCOME #2b; β-CELL FUNCTION - PRIMARY….",
+      "teaser": "Diabetes is a disorder of high blood glucose, that tends to get worse; over time, patients need…",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT05040087)",
+          "url": "https://clinicaltrials.gov/study/NCT05040087",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-23T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 34,
       "isMajorUpdate": false
     },
     {
@@ -1119,29 +1182,28 @@
       ],
       "publishedAt": "2026-07-22T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 38,
+      "popularity": 32,
       "isMajorUpdate": false
     },
     {
-      "id": "pm-42484993",
-      "headline": "Multi-target-directed drugs: new additions in 2025 and post-marketing safety surveillance…",
-      "summary": "Polypharmacology is dedicated to the development of compounds acting on at least two targets (multi-target-directed ligands, MTDLs). In 2025, the European Medicines Agency (EMA) approved 38 drugs, and 11 out of them were MTDLs.",
-      "teaser": "Polypharmacology is dedicated to the development of compounds acting on at least two targets…",
-      "category": "Regulatory",
+      "id": "ct-NCT07046819",
+      "headline": "Tirzepatide in MetALD",
+      "summary": "Background: People with alcohol use disorder (AUD) often develop metabolic alcohol-associated liver disease (MetALD). MetALD is a term for the heart, liver, obesity, and other issues that can accompany AUD. Primary outcome: Metabolic improvement from baseline as measured by percentage reduction of body weight and reduction in liver steatosis….",
+      "teaser": "Background: People with alcohol use disorder (AUD) often develop metabolic alcohol-associated liver…",
+      "category": "Trial results",
       "compounds": [
-        "Semaglutide",
         "Tirzepatide"
       ],
       "sources": [
         {
-          "name": "PubMed (42484993)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42484993/",
-          "kind": "journal"
+          "name": "ClinicalTrials.gov (NCT07046819)",
+          "url": "https://clinicaltrials.gov/study/NCT07046819",
+          "kind": "trial"
         }
       ],
       "publishedAt": "2026-07-22T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 36,
+      "popularity": 30,
       "isMajorUpdate": false
     },
     {
@@ -1163,49 +1225,7 @@
       ],
       "publishedAt": "2026-07-22T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 34,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06015893",
-      "headline": "Semaglutide Therapy for Alcohol Reduction (STAR)",
-      "summary": "Background: Alcohol use disorder (AUD) is a problematic pattern of alcohol use accompanied by clinically significant medical consequences. Medications can help most people reduce their drinking, but the number is limited, and additional treatment options are needed. Primary outcome: Determine whether semaglutide, compared to placebo, reduces alcohol drinking..",
-      "teaser": "Background: Alcohol use disorder (AUD) is a problematic pattern of alcohol use accompanied by…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06015893)",
-          "url": "https://clinicaltrials.gov/study/NCT06015893",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-22T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 32,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07621640",
-      "headline": "Brown Adipose Tissue as a Mechanistic Determinant of Semaglutide Treatment Response in…",
-      "summary": "This study investigates whether the activity of brown adipose tissue (BAT) - a special type of fat that burns energy as heat - can predict how well individuals with obesity respond to semaglutide (Wegovy), a once-weekly injectable weight loss medication. Primary outcome: Correlation between baseline BAT metabolic activity (SUVmean and BAT volume on ¹⁸FDG-PET/CT) and percentage body weight….",
-      "teaser": "This study investigates whether the activity of brown adipose tissue (BAT) - a special type of fat…",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07621640)",
-          "url": "https://clinicaltrials.gov/study/NCT07621640",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-22T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 30,
+      "popularity": 28,
       "isMajorUpdate": false
     },
     {
@@ -1225,27 +1245,6 @@
         }
       ],
       "publishedAt": "2026-07-21T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 28,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06143956",
-      "headline": "A Master Protocol Study (LY900038) of Multiple Intervention-Specific-Appendices (ISAs) in…",
-      "summary": "The purpose of this Phase-2 chronic weight management master protocol (CWMM) is to create a framework to evaluate the safety and efficacy of various investigational interventions for chronic weight management with intervention-specific appendices (ISAs). Primary outcome: Number of Participants Allocated to Each ISA.",
-      "teaser": "The purpose of this Phase-2 chronic weight management master protocol (CWMM) is to create a…",
-      "category": "Trial results",
-      "compounds": [
-        "Mazdutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06143956)",
-          "url": "https://clinicaltrials.gov/study/NCT06143956",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-20T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
       "popularity": 26,
       "isMajorUpdate": false
@@ -1273,6 +1272,27 @@
       "isMajorUpdate": false
     },
     {
+      "id": "ct-NCT06143956",
+      "headline": "A Master Protocol Study (LY900038) of Multiple Intervention-Specific-Appendices (ISAs) in…",
+      "summary": "The purpose of this Phase-2 chronic weight management master protocol (CWMM) is to create a framework to evaluate the safety and efficacy of various investigational interventions for chronic weight management with intervention-specific appendices (ISAs). Primary outcome: Number of Participants Allocated to Each ISA.",
+      "teaser": "The purpose of this Phase-2 chronic weight management master protocol (CWMM) is to create a…",
+      "category": "Trial results",
+      "compounds": [
+        "Mazdutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT06143956)",
+          "url": "https://clinicaltrials.gov/study/NCT06143956",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-20T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 22,
+      "isMajorUpdate": false
+    },
+    {
       "id": "ct-NCT06662383",
       "headline": "A Study of Retatrutide (LY3437943) Compared to Tirzepatide (LY3298176) in Adults Who Have…",
       "summary": "The main purpose of this study is to evaluate the efficacy and safety of retatrutide compared to tirzepatide in adults who have obesity. The study will last about 89 weeks. Primary outcome: Percent Change from Baseline in Body Weight.",
@@ -1286,27 +1306,6 @@
         {
           "name": "ClinicalTrials.gov (NCT06662383)",
           "url": "https://clinicaltrials.gov/study/NCT06662383",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-20T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 22,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06297603",
-      "headline": "Effect of Retatrutide Compared With Placebo in Participants With Type 2 Diabetes and…",
-      "summary": "The purpose of this study is to investigate the efficacy and safety of retatrutide compared with placebo in participants with Type 2 Diabetes and renal impairment, with inadequate glycemic control on basal insulin alone or a combination of basal insulin with or without metformin and/or sodium-glucose cotransporter-2 (SGLT2) inhibitor. Primary outcome: Change from Baseline in Hemoglobin A1c (HbA1c) (%).",
-      "teaser": "The purpose of this study is to investigate the efficacy and safety of retatrutide compared with…",
-      "category": "Trial results",
-      "compounds": [
-        "Retatrutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06297603)",
-          "url": "https://clinicaltrials.gov/study/NCT06297603",
           "kind": "trial"
         }
       ],
