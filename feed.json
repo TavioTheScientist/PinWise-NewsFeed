@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-24T05:04:50Z",
+  "generatedAt": "2026-07-24T18:05:00Z",
   "items": [
     {
       "id": "fda-bpc157-pcac-2026-07",
@@ -1039,10 +1039,180 @@
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician."
     },
     {
+      "id": "pm-42495930",
+      "headline": "Semaglutide vs. surgery for weight loss in endometrial",
+      "summary": "Researchers are evaluating three approaches to weight control and metabolic health in patients with endometrial cancer who are receiving fertility-sparing treatment: semaglutide therapy, sleeve gastrectomy (weight-loss surgery), and the DEAR (Diet, Exercise, Accompany and Refresh) weight management program. The trial will assess weight loss, metabolic improvements, and cancer-related outcomes across these three interventions.",
+      "teaser": "Study compares semaglutide, sleeve gastrectomy, and a structured weight-management program in endometrial",
+      "category": "General",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "PubMed (42495930)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42495930/",
+          "kind": "journal"
+        }
+      ],
+      "publishedAt": "2026-12-01T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 44,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07011667",
+      "headline": "CagriSema weight-loss trial underway in obesity",
+      "summary": "A two-part study is evaluating CagriSema (which includes cagrilintide) for weight loss in people with obesity. The main study phase will be followed by an extension phase to assess long-term weight maintenance. The primary measure is relative change in body weight.",
+      "teaser": "Trial testing cagrilintide combination for weight loss and long-term maintenance in people with obesity.",
+      "category": "Trial results",
+      "compounds": [
+        "Cagrilintide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07011667)",
+          "url": "https://clinicaltrials.gov/study/NCT07011667",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 42,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07559500",
+      "headline": "Tirzepatide's effect on brain dopamine in alcohol use",
+      "summary": "GLP-1 drugs like tirzepatide are approved for diabetes and weight loss, but emerging evidence suggests they may influence brain chemistry related to cravings. This early-stage trial is examining how tirzepatide affects dopamine—a neurotransmitter involved in reward and addiction—in healthy volunteers and people with alcohol use disorder.",
+      "teaser": "Study is testing whether tirzepatide affects dopamine release in the brain.",
+      "category": "New compound",
+      "compounds": [
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07559500)",
+          "url": "https://clinicaltrials.gov/study/NCT07559500",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 40,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07702461",
+      "headline": "GLP-1 drugs and resistance training capacity",
+      "summary": "Researchers are investigating whether semaglutide, liraglutide, or tirzepatide affects a person's ability to perform resistance (strength) training. The study compares resistance training status before and after adults begin taking one of these GLP-1 medications. This work may help clarify how these drugs influence muscle-building exercise capacity.",
+      "teaser": "Study examines how strength training ability changes when adults start GLP-1 receptor agonist medications.",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide",
+        "Tirzepatide",
+        "Liraglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07702461)",
+          "url": "https://clinicaltrials.gov/study/NCT07702461",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 38,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07154719",
+      "headline": "Tirzepatide study examines muscle and bone changes",
+      "summary": "The GRAMS study is examining musculoskeletal changes that occur when people lose weight using GLP-1 therapy like tirzepatide. Researchers will compare a group receiving tirzepatide plus intensive lifestyle changes (diet and exercise) against a control group with standard diet and exercise alone. The primary measure is fat-free mass—muscle, bone, and other non-fat tissue—assessed by imaging.",
+      "teaser": "GRAMS trial is testing whether tirzepatide preserves muscle and bone during weight loss.",
+      "category": "Trial results",
+      "compounds": [
+        "Tirzepatide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07154719)",
+          "url": "https://clinicaltrials.gov/study/NCT07154719",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 36,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07478653",
+      "headline": "Semaglutide + dental cleaning tested in children",
+      "summary": "The MODERN-Dental trial is evaluating whether adding professional dental cleaning to semaglutide treatment can improve outcomes beyond the drug alone in children with obesity. The study measures changes in gum health markers—including gum inflammation, pocket depth, and bleeding—alongside cardiometabolic effects.",
+      "teaser": "Trial is testing whether dental cleaning boosts semaglutide's effects on oral and metabolic health",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07478653)",
+          "url": "https://clinicaltrials.gov/study/NCT07478653",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 34,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT07724340",
+      "headline": "AT673 plus semaglutide tested for weight loss",
+      "summary": "This clinical trial evaluates AT673, a compound given alongside semaglutide, in adults with overweight or obesity and type 2 diabetes. The primary measure is body weight change. The study aims to determine if the combination produces greater weight loss and better glycemic control than semaglutide alone.",
+      "teaser": "Trial tests whether AT673 added to semaglutide improves weight loss and blood sugar control.",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT07724340)",
+          "url": "https://clinicaltrials.gov/study/NCT07724340",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 32,
+      "isMajorUpdate": false
+    },
+    {
+      "id": "ct-NCT06548490",
+      "headline": "Semaglutide tested for opioid abstinence in maintenance",
+      "summary": "This clinical trial evaluates semaglutide, a GLP-1 receptor agonist, as a potential treatment to help adults with opioid use disorder achieve abstinence from illicit and nonprescribed opioids. Participants are already receiving standard maintenance treatment with either buprenorphine or methadone. The primary measure is the number of participants who become abstinent from illicit and nonprescribed opioids.",
+      "teaser": "Trial is testing whether semaglutide reduces illicit opioid use in adults on buprenorphine or methadone.",
+      "category": "Trial results",
+      "compounds": [
+        "Semaglutide"
+      ],
+      "sources": [
+        {
+          "name": "ClinicalTrials.gov (NCT06548490)",
+          "url": "https://clinicaltrials.gov/study/NCT06548490",
+          "kind": "trial"
+        }
+      ],
+      "publishedAt": "2026-07-24T00:00:00Z",
+      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
+      "popularity": 30,
+      "isMajorUpdate": false
+    },
+    {
       "id": "ct-NCT06077864",
       "headline": "Survodutide trial tests heart and kidney disease",
-      "summary": "This study enrolls adults aged 18+ with a BMI of 27 or higher who have cardiovascular disease or chronic kidney disease. Survodutide (BI 456906) is being tested to see if it reduces the time to major cardiovascular events. The trial tracks a composite endpoint of adjudicated cardiovascular outcomes including cardiovascular death.",
-      "teaser": "Phase 3 trial is measuring cardiovascular and kidney disease events in adults with obesity.",
+      "summary": "This study enrolls adults aged 18+ with a BMI of 27 or higher who have cardiovascular disease or chronic kidney disease. The primary outcome tracks the time to first occurrence of cardiovascular death or other adjudicated composite endpoints. The trial is testing whether survodutide affects these serious health events in this high-risk population.",
+      "teaser": "Phase 3 trial is measuring cardiovascular death and related events in adults with obesity and heart",
       "category": "Trial results",
       "compounds": [
         "Survodutide"
@@ -1056,14 +1226,14 @@
       ],
       "publishedAt": "2026-07-23T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 44,
+      "popularity": 28,
       "isMajorUpdate": false
     },
     {
       "id": "ct-NCT07035093",
       "headline": "Retatrutide tested for chronic low back pain in obesity",
-      "summary": "This 80-week study evaluates whether retatrutide, a triple hormone receptor agonist, can reduce chronic low back pain and body weight in people with obesity or overweight. The trial will measure pain intensity on a standard rating scale and percent change in body weight as primary outcomes. Results are not yet available.",
-      "teaser": "Phase 3 trial is testing retatrutide for chronic low back pain in adults with obesity or overweight.",
+      "summary": "This 80-week study evaluates whether retatrutide, a triple hormone receptor agonist, can reduce chronic low back pain and body weight in participants with obesity or overweight. The trial will measure pain intensity and percent change in body weight as primary outcomes. Results are not yet available.",
+      "teaser": "Phase 3 trial is testing retatrutide for chronic low back pain in people with obesity or overweight.",
       "category": "Trial results",
       "compounds": [
         "Retatrutide"
@@ -1077,14 +1247,14 @@
       ],
       "publishedAt": "2026-07-23T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 42,
+      "popularity": 26,
       "isMajorUpdate": false
     },
     {
       "id": "pm-42492687",
-      "headline": "GLP-1 drugs deliver weight loss and blood sugar control",
-      "summary": "GLP-1 receptor agonists—a class of drugs that includes tirzepatide—have become a major treatment for obesity. These drugs work by activating the GLP-1 receptor, leading to clinically significant weight loss and improvements in blood sugar levels in people with diabetes.",
-      "teaser": "GLP-1 receptor agonists produce meaningful weight loss and improve blood sugar control.",
+      "headline": "GLP-1 drugs transform obesity treatment with weight loss",
+      "summary": "Glucagon-like peptide-1 receptor (GLP-1R) agonists have become a major class of obesity medications. These drugs deliver significant weight loss and robust improvements in blood sugar management, marking a shift in how obesity is treated pharmacologically.",
+      "teaser": "GLP-1 receptor agonists produce clinically meaningful weight loss and improve blood sugar control.",
       "category": "Trial results",
       "compounds": [
         "Tirzepatide"
@@ -1098,162 +1268,14 @@
       ],
       "publishedAt": "2026-07-23T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 40,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07463846",
-      "headline": "ALN-2232 tested alongside tirzepatide in obesity trial",
-      "summary": "This study evaluates a new compound called ALN-2232 in three parts: first as single doses, then as repeated doses, and finally combined with the GLP-1 drug tirzepatide. Researchers will measure safety, tolerability, how the body processes the drug, and effects on body weight in participants with obesity.",
-      "teaser": "Early-stage trial is testing ALN-2232 alone and combined with tirzepatide in people with obesity.",
-      "category": "New compound",
-      "compounds": [
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07463846)",
-          "url": "https://clinicaltrials.gov/study/NCT07463846",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-23T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 38,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42493207",
-      "headline": "Semaglutide tested to prevent type 2 diabetes",
-      "summary": "Women who develop gestational diabetes during pregnancy face a high risk of type 2 diabetes later. This trial is evaluating whether semaglutide can prevent that progression in postpartum women with pre-diabetes.",
-      "teaser": "Study is testing semaglutide to prevent type 2 diabetes in women with postpartum pre-diabetes after",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42493207)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42493207/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-23T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 36,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "pm-42493728",
-      "headline": "Semaglutide's effect on cognitive function studied",
-      "summary": "Type 2 diabetes raises the risk of mild cognitive impairment and dementia. GLP-1 receptor agonists like semaglutide already offer heart and metabolic benefits, and early evidence hints at potential effects on brain function. This study investigates those cognitive effects.",
-      "teaser": "Trial is examining whether semaglutide affects cognitive function in type 2 diabetes patients.",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "PubMed (42493728)",
-          "url": "https://pubmed.ncbi.nlm.nih.gov/42493728/",
-          "kind": "journal"
-        }
-      ],
-      "publishedAt": "2026-07-23T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 34,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07218354",
-      "headline": "Semaglutide tested for alcohol use disorder in Veterans",
-      "summary": "This clinical trial evaluates semaglutide, a GLP-1 receptor agonist, as a potential treatment for moderate to severe alcohol use disorder in a Veteran population. The primary outcome measures a two-level reduction in WHO risk drinking levels over the final 28 days of the study. Results are pending.",
-      "teaser": "Trial is testing whether semaglutide reduces drinking in Veterans with moderate to severe alcohol use",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07218354)",
-          "url": "https://clinicaltrials.gov/study/NCT07218354",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-23T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 32,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT05040087",
-      "headline": "Semaglutide improves insulin-producing cell function",
-      "summary": "Type 2 diabetes typically worsens over time, requiring patients to take more medications as their insulin-producing cells (beta cells) decline. This trial tested whether semaglutide could slow or reverse that decline by measuring beta-cell function as a primary outcome. The drug showed improvement in how well these cells work.",
-      "teaser": "Semaglutide improved beta-cell function, the body's ability to produce insulin.",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT05040087)",
-          "url": "https://clinicaltrials.gov/study/NCT05040087",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-23T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 30,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07720466",
-      "headline": "GLP-1 drugs linked to dry mouth and tooth wear",
-      "summary": "A study examined oral health changes in people taking GLP-1 receptor agonists, including semaglutide and tirzepatide. Users reported dry mouth, changes in saliva composition, and increased tooth wear. The primary measure was salivary calcium concentration.",
-      "teaser": "Semaglutide and tirzepatide users report dry mouth, altered saliva, and increased tooth wear.",
-      "category": "Trial results",
-      "compounds": [
-        "Semaglutide",
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07720466)",
-          "url": "https://clinicaltrials.gov/study/NCT07720466",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-22T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 28,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT07046819",
-      "headline": "Tirzepatide tested for metabolic issues",
-      "summary": "Metabolic alcohol-associated liver disease (MetALD) describes a cluster of conditions—including obesity, liver damage, and heart problems—that often develop alongside alcohol use disorder. This trial is measuring whether tirzepatide can improve metabolism in people with MetALD, with a focus on reducing body weight and liver fat accumulation.",
-      "teaser": "Trial is testing tirzepatide's effects on weight and liver fat in people with alcohol-related liver disease.",
-      "category": "Trial results",
-      "compounds": [
-        "Tirzepatide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT07046819)",
-          "url": "https://clinicaltrials.gov/study/NCT07046819",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-22T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 26,
+      "popularity": 24,
       "isMajorUpdate": false
     },
     {
       "id": "ct-NCT05202353",
       "headline": "Survodutide tested for glucagon receptor activity",
-      "summary": "This trial enrolls adults with obesity (BMI 30–40 kg/m²) to assess survodutide's mechanism of action. The primary outcome is glucagon receptor occupancy in the liver, measured by positron emission tomography imaging. The study examines how this dual GLP-1/glucagon receptor agonist engages its target in human tissue.",
-      "teaser": "Study measures how survodutide binds to glucagon receptors in the liver using PET imaging.",
+      "summary": "This trial enrolls adults with obesity (BMI 30–40 kg/m²) to assess survodutide's mechanism of action. The primary goal is to measure glucagon receptor occupancy in the liver using positron emission tomography imaging, a technique that tracks where and how much the drug binds to its target.",
+      "teaser": "Study measures how much survodutide binds to glucagon receptors in the liver using PET imaging.",
       "category": "New compound",
       "compounds": [
         "Semaglutide",
@@ -1268,7 +1290,7 @@
       ],
       "publishedAt": "2026-07-22T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 24,
+      "popularity": 22,
       "isMajorUpdate": false
     },
     {
@@ -1289,14 +1311,14 @@
       ],
       "publishedAt": "2026-07-21T00:00:00Z",
       "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 22,
+      "popularity": 20,
       "isMajorUpdate": false
     },
     {
       "id": "ct-NCT07713992",
-      "headline": "Mazdutide tested for fatty liver in controlled diabetics",
-      "summary": "This randomized controlled trial enrolls patients with type 2 diabetes and moderate-to-severe non-alcoholic fatty liver disease (NAFLD) whose blood sugar is already controlled. The study measures changes in liver fat content using MRI imaging to assess whether switching to mazdutide therapy can reduce fatty liver disease in this population.",
-      "teaser": "Trial is testing whether mazdutide reduces liver fat in type 2 diabetes patients with fatty liver disease.",
+      "headline": "Mazdutide tested for liver fat in type-2 diabetes",
+      "summary": "This randomized controlled trial evaluates whether switching to mazdutide can reduce liver fat content in patients with type-2 diabetes who already have good blood sugar control but also have moderate-to-severe non-alcoholic fatty liver disease. The primary measure is change in liver fat, assessed by MRI imaging. Results are not yet available.",
+      "teaser": "Trial is testing mazdutide to reduce liver fat in people with type-2 diabetes and fatty liver disease.",
       "category": "Trial results",
       "compounds": [
         "Semaglutide",
@@ -1316,9 +1338,9 @@
     },
     {
       "id": "ct-NCT06143956",
-      "headline": "Mazdutide Phase 2 trial launches weight loss master",
-      "summary": "Eli Lilly's LY900038 is a master protocol designed to evaluate multiple investigational treatments for chronic weight management. The framework allows researchers to test different interventions using a shared structure, with intervention-specific appendices tailoring each arm. The study will track safety and efficacy across participants assigned to each treatment group.",
-      "teaser": "Phase 2 study is testing mazdutide and other drugs for chronic weight management.",
+      "headline": "Mazdutide Phase 2 weight-management trial launches",
+      "summary": "Eli Lilly's LY900038 is a master protocol study designed to evaluate multiple investigational treatments for chronic weight management. The trial will use a flexible framework with intervention-specific appendices to test safety and efficacy across different approaches. The primary outcome tracks how many participants are assigned to each treatment arm.",
+      "teaser": "Phase 2 trial is testing mazdutide for chronic weight management.",
       "category": "Trial results",
       "compounds": [
         "Mazdutide"
@@ -1327,28 +1349,6 @@
         {
           "name": "ClinicalTrials.gov (NCT06143956)",
           "url": "https://clinicaltrials.gov/study/NCT06143956",
-          "kind": "trial"
-        }
-      ],
-      "publishedAt": "2026-07-20T00:00:00Z",
-      "disclaimer": "Neutral informational summary. Not medical advice. Read the linked sources and consult a clinician.",
-      "popularity": 20,
-      "isMajorUpdate": false
-    },
-    {
-      "id": "ct-NCT06662383",
-      "headline": "Retatrutide vs tirzepatide for weight loss in obesity",
-      "summary": "This study directly compares retatrutide (LY3437943) to tirzepatide in adults with obesity over approximately 89 weeks. The primary measure is percent change in body weight from the start of the study. Results will show how the two drugs perform against each other for weight reduction and safety.",
-      "teaser": "89-week trial comparing retatrutide and tirzepatide for weight loss in adults with obesity.",
-      "category": "Trial results",
-      "compounds": [
-        "Tirzepatide",
-        "Retatrutide"
-      ],
-      "sources": [
-        {
-          "name": "ClinicalTrials.gov (NCT06662383)",
-          "url": "https://clinicaltrials.gov/study/NCT06662383",
           "kind": "trial"
         }
       ],
