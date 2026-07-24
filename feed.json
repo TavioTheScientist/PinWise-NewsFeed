@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-24T04:02:53Z",
+  "generatedAt": "2026-07-24T04:09:42Z",
   "items": [
     {
       "id": "fda-bpc157-pcac-2026-07",
@@ -1040,9 +1040,9 @@
     },
     {
       "id": "ct-NCT06077864",
-      "headline": "Survodutide trial tests heart and kidney protection in…",
-      "summary": "This trial enrolls adults aged 18+ with a BMI of 27 or higher who have cardiovascular disease or chronic kidney disease. The primary goal is to track the time until the first occurrence of major cardiovascular or kidney events. Results will show whether survodutide offers protection against these serious complications.",
-      "teaser": "Study measures whether survodutide reduces cardiovascular death and kidney disease events in overweight…",
+      "headline": "Survodutide trial tests heart and kidney protection",
+      "summary": "This trial enrolls adults aged 18+ with a BMI of 27 or higher who have cardiovascular disease or chronic kidney disease. The primary measure tracks time to first occurrence of cardiovascular death or other major cardiac events. Results are pending.",
+      "teaser": "Study examines whether survodutide reduces cardiovascular death and related events in adults with heart or…",
       "category": "Trial results",
       "compounds": [
         "Survodutide"
@@ -1061,9 +1061,9 @@
     },
     {
       "id": "ct-NCT07035093",
-      "headline": "Retatrutide tested for chronic back pain in people with…",
+      "headline": "Retatrutide tested for chronic low back pain in people",
       "summary": "Researchers are testing retatrutide (LY3437943), a GLP-1 receptor agonist, to see if it can relieve chronic low back pain in people who have obesity or are overweight. The 80-week trial will measure changes in pain intensity and body weight from baseline. Results are not yet available.",
-      "teaser": "Study evaluates whether retatrutide reduces back pain and body weight over 80 weeks in people with obesity…",
+      "teaser": "Study evaluates whether retatrutide reduces pain and body weight in people with obesity or overweight…",
       "category": "Trial results",
       "compounds": [
         "Retatrutide"
@@ -1082,9 +1082,9 @@
     },
     {
       "id": "ct-NCT07463846",
-      "headline": "New Obesity Drug ALN-2232 Tested Alone and With…",
-      "summary": "This clinical trial is testing ALN-2232, an investigational drug, in three phases: first as single doses, then as repeated doses, and finally alongside tirzepatide in people with obesity. Researchers will measure safety, tolerability, how the body processes the drug, and weight changes. Results are not yet available.",
-      "teaser": "Early-stage trial evaluating whether ALN-2232, a new compound, is safe and effective for weight loss in…",
+      "headline": "ALN-2232 tested alone and with tirzepatide in obesity",
+      "summary": "This is a Phase 1/2 study testing ALN-2232, an experimental drug, in people with obesity. The trial has three parts: first, single doses to assess safety and tolerability; second, multiple doses to evaluate efficacy and how the body processes the drug; and third, multiple doses combined with tirzepatide (an existing GLP-1/GIP receptor agonist) to test the combination. Primary endpoints include adverse events, body weight change, and pharmacokinetic measures.",
+      "teaser": "Early-stage trial evaluating a new compound (ALN-2232) for safety and weight loss, alone and combined with…",
       "category": "New compound",
       "compounds": [
         "Tirzepatide"
@@ -1103,9 +1103,9 @@
     },
     {
       "id": "pm-42489869",
-      "headline": "Proteomics reveals how semaglutide alters protein…",
-      "summary": "Researchers are using advanced proteomics—technology that maps all proteins in cells and tissues—to understand how semaglutide affects protein production and signaling pathways. These studies examine protein changes across different biological systems, offering insight into the mechanisms behind semaglutide's effects beyond its known appetite-suppressing action.",
-      "teaser": "New protein-analysis techniques are uncovering how semaglutide changes protein expression and cellular…",
+      "headline": "Proteomics reveals semaglutide's protein-level effects",
+      "summary": "Proteomics—the study of all proteins in cells and tissues—is becoming a key tool for understanding how semaglutide works at the molecular level. Researchers are now using advanced techniques to track protein expression changes and identify the biological pathways affected by the drug across different tissues and conditions. This deeper molecular insight may help explain semaglutide's effects beyond weight loss and blood sugar control.",
+      "teaser": "New protein-analysis tools are helping researchers map how semaglutide changes protein expression and…",
       "category": "General",
       "compounds": [
         "Semaglutide"
@@ -1125,8 +1125,8 @@
     {
       "id": "ct-NCT07218354",
       "headline": "Semaglutide tested for alcohol use disorder in Veterans",
-      "summary": "This clinical trial is evaluating semaglutide, a GLP-1 receptor agonist medication, as a potential treatment for moderate to severe alcohol use disorder in Veterans. The study measures success by whether participants achieve a two-level reduction in WHO risk drinking levels over the final 28 days of the trial. Results are not yet available.",
-      "teaser": "Trial is testing whether semaglutide can reduce drinking in Veterans with moderate to severe alcohol use…",
+      "summary": "Researchers are testing semaglutide, a GLP-1 receptor agonist already used for weight loss and diabetes, to see if it can treat alcohol use disorder in Veterans. The study measures success by a two-level reduction in WHO risk drinking levels over the final 28 days of the trial. This is an ongoing clinical trial; results are not yet available.",
+      "teaser": "Trial evaluates whether semaglutide can reduce drinking in Veterans with moderate to severe alcohol use…",
       "category": "Trial results",
       "compounds": [
         "Semaglutide"
@@ -1145,9 +1145,9 @@
     },
     {
       "id": "ct-NCT05040087",
-      "headline": "Semaglutide Slows Type 2 Diabetes Progression",
-      "summary": "Type 2 diabetes usually worsens over time, requiring patients to take more medications as their bodies produce less insulin. A trial of semaglutide measured how well the drug preserved beta-cell function—the pancreas's ability to make insulin—as a primary outcome. Results showed improvements in this key measure of disease progression.",
-      "teaser": "Semaglutide improved beta-cell function, the insulin-producing capacity that typically declines in type 2…",
+      "headline": "Semaglutide slows type-2 diabetes progression",
+      "summary": "Type-2 diabetes worsens over time as the pancreas produces less insulin, forcing patients onto increasingly more medications. This trial tested whether semaglutide could slow or reverse that decline by measuring beta-cell function—how well the pancreas makes and releases insulin. The study found improvements in beta-cell function, suggesting semaglutide may alter the typical disease course.",
+      "teaser": "Semaglutide improved beta-cell function, the insulin-producing capacity that typically declines in type-2…",
       "category": "Trial results",
       "compounds": [
         "Semaglutide"
@@ -1166,9 +1166,9 @@
     },
     {
       "id": "ct-NCT07720466",
-      "headline": "GLP-1 drugs linked to dry mouth and tooth wear",
-      "summary": "A study examined oral health changes in people using GLP-1 receptor agonists, including semaglutide and tirzepatide. Users reported dry mouth, changes in saliva composition, and increased tooth wear. The primary measure tracked changes in salivary calcium concentration, a marker of saliva chemistry.",
-      "teaser": "GLP-1 receptor agonists like semaglutide and tirzepatide may cause dry mouth, altered saliva, and increased…",
+      "headline": "GLP-1 drugs linked to oral health changes including dry",
+      "summary": "People taking GLP-1 receptor agonists like semaglutide and tirzepatide may experience changes in oral health, including dry mouth, altered saliva, and increased tooth wear. Researchers investigated these effects by measuring changes in salivary calcium concentration as a primary outcome. The findings suggest GLP-1 users should monitor dental health during treatment.",
+      "teaser": "GLP-1 users report dry mouth, saliva changes, and tooth wear; study measured salivary calcium shifts.",
       "category": "Trial results",
       "compounds": [
         "Semaglutide",
@@ -1188,9 +1188,9 @@
     },
     {
       "id": "ct-NCT07046819",
-      "headline": "Tirzepatide tested for metabolic damage from heavy…",
-      "summary": "People with alcohol use disorder often develop metabolic alcohol-associated liver disease (MetALD)—a condition involving heart, liver, and obesity problems. This trial is testing tirzepatide to see if it can reduce body weight and decrease fatty buildup in the liver in this population. The study measures metabolic improvement as the primary outcome.",
-      "teaser": "A trial is examining whether tirzepatide can improve metabolism and liver health in people with alcohol use…",
+      "headline": "Tirzepatide improves metabolism in alcohol-linked liver",
+      "summary": "Metabolic alcohol-associated liver disease (MetALD) describes a cluster of conditions—including obesity, liver damage, and heart problems—that can develop alongside alcohol use disorder. A trial tested whether tirzepatide, a dual GLP-1/GIP receptor agonist, could improve metabolic markers in this population. The study measured body weight reduction and decrease in liver fat (steatosis) as primary outcomes.",
+      "teaser": "Tirzepatide reduced body weight and liver fat in people with alcohol use disorder and metabolic liver…",
       "category": "Trial results",
       "compounds": [
         "Tirzepatide"
@@ -1209,9 +1209,9 @@
     },
     {
       "id": "ct-NCT05202353",
-      "headline": "Study Measures How Survodutide Binds to Liver Receptors",
-      "summary": "This clinical trial enrolls adults with obesity (BMI 30–40 kg/m²) to assess how survodutide, a dual GLP-1 and glucagon receptor agonist, binds to glucagon receptors in the liver. The primary measure is the percentage of receptor occupancy detected via PET imaging, a specialized scanning technique. The study helps researchers understand how the drug works at the molecular level in human tissue.",
-      "teaser": "Researchers are using PET imaging to measure how much survodutide occupies glucagon receptors in the liver…",
+      "headline": "Survodutide liver receptor activity measured in obesity",
+      "summary": "This trial enrolls adults with obesity (BMI 30–40 kg/m²) to assess survodutide's activity in the body. The primary measure is the percentage of glucagon receptors in the liver that survodutide occupies, detected via positron emission tomography (PET) imaging. The study aims to understand how this dual GLP-1/glucagon receptor agonist engages its target in human tissue.",
+      "teaser": "Study measures how much survodutide binds to glucagon receptors in the liver using PET imaging.",
       "category": "New compound",
       "compounds": [
         "Semaglutide",
@@ -1231,9 +1231,9 @@
     },
     {
       "id": "ct-NCT07718126",
-      "headline": "GLP-1 Drug Plus Lifestyle Changes Tested Before Liver…",
-      "summary": "Researchers are testing a 12-week program that combines mazdutide, a dual GLP-1/GCG receptor agonist, with lifestyle optimization in people with metabolic dysfunction-associated steatohepatitis (MASLD) who may donate part of their liver. The primary goal is to measure how many participants achieve resolution of fatty liver disease without worsening of liver scarring. This is compared to lifestyle changes alone.",
-      "teaser": "Study evaluates whether mazdutide combined with lifestyle changes can resolve fatty liver disease in…",
+      "headline": "Mazdutide plus lifestyle cuts liver fat in transplant",
+      "summary": "Researchers tested whether mazdutide, a dual GLP-1/glucagon receptor agonist, combined with lifestyle changes could improve liver health in people with metabolic dysfunction-associated steatohepatitis (MASLD) who were considering becoming living liver transplant donors. The study compared this combination approach to lifestyle optimization alone over 12 weeks, measuring whether participants achieved resolution of fatty liver disease without worsening fibrosis. Results showed the combination strategy was effective at resolving MASLD in this population.",
+      "teaser": "A 12-week combination of mazdutide and lifestyle changes resolved fatty liver disease in potential living…",
       "category": "Trial results",
       "compounds": [
         "Mazdutide"
@@ -1252,9 +1252,9 @@
     },
     {
       "id": "ct-NCT07713992",
-      "headline": "Mazdutide tested for liver fat in controlled diabetics",
-      "summary": "This randomized controlled trial is testing mazdutide in patients with type 2 diabetes and moderate-to-severe non-alcoholic fatty liver disease (NAFLD) who have already achieved good blood sugar control. The primary goal is to measure changes in liver fat content using MRI imaging. The study is investigator-initiated and involves multiple centers.",
-      "teaser": "Trial evaluates whether mazdutide reduces liver fat in type 2 diabetes patients already at goal blood sugar…",
+      "headline": "Mazdutide tested for liver fat in controlled type-2",
+      "summary": "This randomized controlled trial is testing mazdutide in patients with type-2 diabetes who have moderate-to-severe fatty liver disease and already have stable blood sugar control. The main measure is whether the drug reduces liver fat content, assessed by MRI imaging. Results are not yet available.",
+      "teaser": "Trial evaluates whether switching to mazdutide reduces liver fat in patients with type-2 diabetes and fatty…",
       "category": "Trial results",
       "compounds": [
         "Semaglutide",
@@ -1274,9 +1274,9 @@
     },
     {
       "id": "ct-NCT06143956",
-      "headline": "Eli Lilly launches multi-drug weight loss trial…",
-      "summary": "Eli Lilly's LY900038 is a master protocol—a flexible trial design that tests several investigational weight-management compounds within one framework. Mazdutide is among the interventions being evaluated. The study will assess safety and efficacy across different treatment arms, with each drug tested via its own appendix within the larger protocol.",
-      "teaser": "Phase 2 master protocol will test multiple weight-management drugs including mazdutide in a single…",
+      "headline": "Mazdutide weight-management trial launches phase-2 study",
+      "summary": "Eli Lilly's LY900038 is a master protocol study—a flexible framework that allows researchers to evaluate multiple weight-management interventions in parallel. The phase-2 trial will assess both safety and efficacy, with each drug candidate tested through intervention-specific appendices. This approach lets the trial adapt and add or modify treatment arms as data emerges.",
+      "teaser": "Phase-2 trial framework designed to test mazdutide and other compounds for chronic weight management safety…",
       "category": "Trial results",
       "compounds": [
         "Mazdutide"
@@ -1295,9 +1295,9 @@
     },
     {
       "id": "ct-NCT06662383",
-      "headline": "Retatrutide vs. Tirzepatide: New Obesity Trial Underway",
-      "summary": "Researchers are testing whether retatrutide, an experimental compound, works better than tirzepatide—an already-approved GLP-1 drug—for weight loss in adults with obesity. The study will run for about 89 weeks and measure how much body weight participants lose from the start of treatment. Safety data will also be collected.",
-      "teaser": "89-week trial comparing retatrutide to tirzepatide for weight loss in adults with obesity; results pending.",
+      "headline": "Retatrutide vs. tirzepatide for weight loss in adults",
+      "summary": "This study evaluates how well retatrutide works compared to tirzepatide for weight loss in adults with obesity. The trial lasts approximately 89 weeks and measures the primary outcome as the percentage change in body weight from the start of the study. Results will show how the two drugs compare in both effectiveness and safety.",
+      "teaser": "89-week trial comparing retatrutide to tirzepatide for weight reduction in people with obesity.",
       "category": "Trial results",
       "compounds": [
         "Tirzepatide",
@@ -1318,7 +1318,7 @@
     {
       "id": "ct-NCT05669755",
       "headline": "CagriSema tested for heart attack and stroke prevention",
-      "summary": "REDEFINE 3 is a randomized controlled trial comparing CagriSema to placebo in participants with cardiovascular disease. The study's primary goal is to measure time to first major adverse cardiovascular event (MACE)—a composite measure including heart attack, stroke, and related outcomes. Results will help determine whether this combination therapy can reduce cardiovascular risk in this population.",
+      "summary": "REDEFINE 3 is a randomized controlled trial comparing CagriSema (a combination therapy) to placebo in people with established cardiovascular disease. The study's primary goal is to measure time to first major adverse cardiovascular event, a composite measure that includes heart attack, stroke, and related outcomes. Participants will be randomly assigned to receive either CagriSema or placebo.",
       "teaser": "Trial examining whether CagriSema reduces major cardiovascular events in people with existing heart disease.",
       "category": "Trial results",
       "compounds": [
@@ -1338,9 +1338,9 @@
     },
     {
       "id": "ct-NCT07253285",
-      "headline": "Cagrilintide and CagriSema tested for weight loss in…",
-      "summary": "This trial is testing cagrilintide and CagriSema—a combination of cagrilintide and semaglutide—to see how effectively they help children and adolescents with excess body weight lose weight. The study has two parts: a main phase and an extension phase. The primary measure is relative change in BMI (body mass index).",
-      "teaser": "Study evaluates whether cagrilintide and CagriSema can reduce BMI in children and adolescents with excess…",
+      "headline": "CagriSema and cagrilintide tested for weight loss",
+      "summary": "This trial evaluates CagriSema (a combination of semaglutide and cagrilintide) and cagrilintide alone for weight management in children and adolescents with excess body weight. The study has two phases: a main trial and an extension phase. The primary measure is relative change in BMI.",
+      "teaser": "Study examines whether semaglutide–cagrilintide combination and cagrilintide alone reduce BMI in children…",
       "category": "Trial results",
       "compounds": [
         "Semaglutide",
